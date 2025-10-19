@@ -30,6 +30,8 @@ The module supports two main applications:
 
 ## Usage
 
+Make sure you have updated config files (local ones depending on your app) and a [global one](../shared_config.py) with you GCP and Redis credentials and paths
+
 Run the module using Python's module execution:
 
 ```bash
@@ -40,6 +42,11 @@ python -m superlinked_app.app sota_app
 python -m superlinked_app.app sota_app_baseline
 ```
 
+**Note:** if you encounter problems with Superlinked and Redis, then run this line
+
+```bash
+pip install 'superlinked[redis]'
+```
 ## Search Approaches
 
 The implementation supports multiple search approaches:
@@ -84,6 +91,7 @@ Each app (`sota_app`, `sota_app_baseline`) contains:
 
 ### Prerequisites
 
+- GCP bucket
 - OpenAI API key for NLQ
 - Redis instance for vector storage
 
@@ -91,7 +99,7 @@ Each app (`sota_app`, `sota_app_baseline`) contains:
 
 Each app has its own configuration in `apps/{app_name}/config.py`:
 
-- **Superlinked**: API credentials, index configuration, embedder settings
+- **Superlinked**:  Embedder settings, Query mode (USE_FULL_QUERY_TEXT, USE_GROUND_TRUTH_QUERY_INPUTS, USE_NLQ), Reingest option, Redo nlq option
 - **Data Sources**: Google Cloud Storage bucket paths for products and queries
 - **Output Files**: Paths for results and query parameters
 - **Redis**: Vector database connection settings

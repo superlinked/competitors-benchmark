@@ -28,7 +28,6 @@ class Configuration(BaseSettings):
     text_embedding_model: str = "Qwen/Qwen3-Embedding-0.6B"
     dataset_id: str = GCS_BUCKET_VERSION
     benchmark_run_id: str = f"{dataset_id}_sota_app_{query_mode.value}"
-    eval_ks: list[int] = [3, 5, 10]
     # colname constants
     float_cols: list[str] = ["rating_count", "average_rating", "price"]
     query_type_colname: str = "query_type"
@@ -51,10 +50,10 @@ class Configuration(BaseSettings):
     query_dataset_path: str = GCS_QUERIES_BLOB
     ground_truth_input_path: str = GCS_RANKED_RESULTS_BLOB
     unique_categories_path: str = (
-        f"{GCS_BUCKET_PATH}/{dataset_id}/unique_categories.json"
+        f"{GCS_BUCKET_PATH}{dataset_id}/unique_categories.json"
     )
     default_output_path: str = (
-        f"{GCS_BUCKET_PATH}/outputs/{dataset_id}/{benchmark_run_id}"
+        f"{GCS_BUCKET_PATH}outputs/{dataset_id}/{benchmark_run_id}"
     )
     query_latency_output_path: str = f"{default_output_path}/query_latencies.json"
     error_output_path: str = f"{default_output_path}/errors/"
@@ -65,8 +64,8 @@ class Configuration(BaseSettings):
     )
     final_result_path: str = f"{default_output_path}/result_rankings.txt"
     # redis
-    redis_url: str = "localhost"
-    redis_port: int = 6380
+    redis_url: str = "redis-10619.c41690.eu-central2-3.gcp.cloud.rlrcp.com"
+    redis_port: int = 10619
     redis_username: str = "default"
 
 
