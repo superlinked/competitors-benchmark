@@ -225,8 +225,7 @@ python evaluation/app.py --system sl-nlq --k 10
 
 The script prints a JSON-like dictionary with per-query-type metrics and an aggregated block. Example:
 
-```json
-
+```
 {
   "overall": {"precision@10": 0.4498, "recall@10": 0.3945, "mrr@10": 0.8087, "ndcg@10": 0.4984}, 
   "simple": {"precision@10": 0.592, "recall@10": 0.3093, "mrr@10": 0.8192, "ndcg@10": 0.5457},
