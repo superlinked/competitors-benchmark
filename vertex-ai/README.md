@@ -74,9 +74,9 @@ python vertex-ai/ranking.py --params nlq
 
 ### Command Line Options
 
-- `--params`: Parameter source (`nlq`/`predefined`/`none`)
+- `--params`: Parameter source (`nlq`/`gt`/`none`)
   - `nlq`: Use parameters extracted by LLM from natural language queries (applies filtering and boosting)
-  - `predefined`: Use manually defined query parameters from GCS (applies filtering and boosting)
+  - `gt`: Use manually defined query parameters from GCS (applies filtering and boosting)
   - `none`: Use only query text for search (no filtering or boosting)
 
 ### Example Commands
@@ -85,8 +85,8 @@ python vertex-ai/ranking.py --params nlq
 # Search with NLQ parameters (filtering and boosting enabled)
 python vertex-ai/ranking.py --params nlq
 
-# Search with predefined parameters (filtering and boosting enabled)
-python vertex-ai/ranking.py --params predefined
+# Search with ground truth parameters (filtering and boosting enabled)
+python vertex-ai/ranking.py --params gt
 
 # Search without any parameters (query text only, no filtering)
 python vertex-ai/ranking.py --params none

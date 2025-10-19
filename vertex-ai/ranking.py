@@ -42,7 +42,7 @@ def parse_arguments() -> argparse.Namespace:
         "--params",
         type=str,
         default="none",
-        choices=["nlq", "predefined", "none"],
+        choices=["nlq", "gt", "none"],
         help="Which params to use to filter the results",
     )
     args = parser.parse_args()
@@ -501,7 +501,7 @@ def load_queries_by_params_type(params_type: str) -> List[Dict[str, Any]]:
     Load queries based on parameter type.
 
     Args:
-        params_type: Type of parameters to use ("nlq", "predefined", "none")
+        params_type: Type of parameters to use ("nlq", "gt", "none")
 
     Returns:
         List of query dictionaries
@@ -513,7 +513,7 @@ def load_queries_by_params_type(params_type: str) -> List[Dict[str, Any]]:
             if "query_params" not in q or q["query_params"] is None:
                 q["query_params"] = {}
         return queries
-    elif params_type == "predefined":
+    elif params_type == "gt":
         queries = load_queries_from_bucket()
         return queries
     elif params_type == "none":
