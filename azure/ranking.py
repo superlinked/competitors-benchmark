@@ -266,39 +266,6 @@ def save_results(query_results: Dict[str, List[str]], output_path: str) -> None:
         raise
 
 
-def display_semantic_results(results: List[Dict[str, Any]], query: str) -> None:
-    """
-    Display search results in a formatted way.
-
-    Args:
-        results: List of search results
-        query: Original query text
-    """
-    print(f"\nSearch Results")
-    print(f"Query: '{query}'")
-    print("-" * 60)
-
-    for i, result in enumerate(results, 1):
-        if isinstance(result, dict):
-            doc = result
-            score = result.get("@search.score", 0)
-        else:
-            doc = result.document if hasattr(result, "document") else result
-            score = getattr(result, "reranker_score", 0)
-
-        print(f"Result #{i} (Score: {score:.3f}):")
-        print(f"  Product: {doc.get('product_name', 'N/A')}")
-        print(f"  Class: {doc.get('product_class', 'N/A')}")
-        print(f"  Price: ${doc.get('price', 'N/A')}")
-        print(
-            f"  Rating: {doc.get('average_rating', 'N/A')} ({doc.get('rating_count', 'N/A')} reviews)"
-        )
-        print(f"  Material: {', '.join(doc.get('material', []))}")
-        print(f"  Style: {', '.join(doc.get('style', []))}")
-        print(f"  Color: {', '.join(doc.get('color', []))}")
-        print("-" * 60)
-
-
 def load_queries_by_params_type(params_type: str) -> List[Dict[str, Any]]:
     """
     Load queries based on parameter type.
@@ -379,7 +346,7 @@ def main():
         # Parse arguments
         args = parse_arguments()
 
-        if args.params == "predefined":
+        if args.params == "gt":
             output_path = GT_PARAMS_OUTPUT_RESULTS
         elif args.params == "nlq":
             output_path = NLQ_OUTPUT_RESULTS
