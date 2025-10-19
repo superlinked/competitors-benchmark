@@ -1,0 +1,137 @@
+{"raw": "wood", "normalized": "wood"}
+{"raw": "birch wood", "normalized": "wood"}
+{"raw": "mahogany", "normalized": "wood"}
+{"raw": "mango wood", "normalized": "wood"}
+{"raw": "walnut", "normalized": "wood"}
+{"raw": "poplar", "normalized": "wood"}
+{"raw": "pine wood and poplar plywood", "normalized": "wood"}
+{"raw": "solid hardwood", "normalized": "wood"}
+{"raw": "acacia", "normalized": "wood"}
+{"raw": "butcher block", "normalized": "wood"}
+{"raw": "beech", "normalized": "wood"}
+{"raw": "ash", "normalized": "wood"}
+{"raw": "ink and wood", "normalized": "wood"}
+{"raw": "reclaimed wood", "normalized": "wood"}
+{"raw": "acacia wood", "normalized": "wood"}
+{"raw": "poplar wood", "normalized": "wood"}
+{"raw": "teak", "normalized": "wood"}
+{"raw": "solid pine wood", "normalized": "wood"}
+{"raw": "rubberwood ; wood veneer", "normalized": "wood"}
+{"raw": "mdf ; wood veneer", "normalized": "wood"}
+{"raw": "solid rubberwood", "normalized": "wood"}
+{"raw": "wood veneer", "normalized": "wood"}
+{"raw": "composite wood", "normalized": "wood"}
+{"raw": "laminate over engineered wood", "normalized": "wood"}
+{"raw": "high-grade mdf and durable laminate", "normalized": "wood"}
+{"raw": "particle board", "normalized": "particle board"}
+{"raw": "particleboard", "normalized": "particle board"}
+{"raw": "laminated particleboard", "normalized": "particle board"}
+{"raw": "laminated particle board", "normalized": "particle board"}
+{"raw": "metal", "normalized": "metal"}
+{"raw": "metal/wire", "normalized": "metal"}
+{"raw": "steel", "normalized": "steel"}
+{"raw": "powder-coated steel", "normalized": "steel"}
+{"raw": "powder coated steel", "normalized": "steel"}
+{"raw": "aluminum", "normalized": "aluminum"}
+{"raw": "cast aluminum", "normalized": "aluminum"}
+{"raw": "chrome", "normalized": "chrome"}
+{"raw": "brass", "normalized": "metal"}
+{"raw": "cast iron", "normalized": "metal"}
+{"raw": "wrought iron", "normalized": "metal"}
+{"raw": "galvanized steel", "normalized": "steel"}
+{"raw": "bronze", "normalized": "metal"}
+{"raw": "foam", "normalized": "foam"}
+{"raw": "high density foam", "normalized": "foam"}
+{"raw": "memory foam", "normalized": "foam"}
+{"raw": "sponge", "normalized": "foam"}
+{"raw": "polyfoam", "normalized": "foam"}
+{"raw": "80 % foam", "normalized": "foam"}
+{"raw": "fabric", "normalized": "fabric"}
+{"raw": "cotton", "normalized": "cotton"}
+{"raw": "cotton canvas", "normalized": "cotton"}
+{"raw": "artist-grade cotton/poly canvas", "normalized": "cotton"}
+{"raw": "polyester", "normalized": "polyester"}
+{"raw": "polyester fabric", "normalized": "polyester"}
+{"raw": "spun polyester", "normalized": "polyester"}
+{"raw": "poly-cotton matte canvas", "normalized": "polyester"}
+{"raw": "wool", "normalized": "wool"}
+{"raw": "wool and polyester blend", "normalized": "wool"}
+{"raw": "poly-wool blend", "normalized": "wool"}
+{"raw": "microfiber", "normalized": "microfiber"}
+{"raw": "brushed microfiber", "normalized": "microfiber"}
+{"raw": "100 % microfiber", "normalized": "microfiber"}
+{"raw": "100 % brushed microfiber", "normalized": "microfiber"}
+{"raw": "100 % brushed microfiber fabric", "normalized": "microfiber"}
+{"raw": "100 % brushed soft microfiber fabric", "normalized": "microfiber"}
+{"raw": "microsuede", "normalized": "microfiber"}
+{"raw": "rayon", "normalized": "synthetics"}
+{"raw": "viscose", "normalized": "synthetics"}
+{"raw": "linen", "normalized": "linen"}
+{"raw": "linen fabric", "normalized": "linen"}
+{"raw": "canvas", "normalized": "canvas"}
+{"raw": "velvet", "normalized": "velvet"}
+{"raw": "chenille", "normalized": "chenille"}
+{"raw": "silk", "normalized": "silk"}
+{"raw": "nylon", "normalized": "synthetics"}
+{"raw": "poly chenille", "normalized": "chenille"}
+{"raw": "revolution performance fabrics®", "normalized": "synthetics"}
+{"raw": "sunbrella", "normalized": "synthetics"}
+{"raw": "yarn-dyed acrylic", "normalized": "acrylic"}
+{"raw": "leather", "normalized": "leather"}
+{"raw": "genuine leather", "normalized": "genuine leather"}
+{"raw": "100 % leather", "normalized": "genuine leather"}
+{"raw": "top grain leather", "normalized": "genuine leather"}
+{"raw": "aniline leather", "normalized": "genuine leather"}
+{"raw": "faux leather", "normalized": "faux leather"}
+{"raw": "leather match", "normalized": "faux leather"}
+{"raw": "leatherette", "normalized": "faux leather"}
+{"raw": "polyurethane leather", "normalized": "faux leather"}
+{"raw": "100 % polyurethane", "normalized": "faux leather"}
+{"raw": "upholstered", "normalized": "upholstered"}
+{"raw": "rattan", "normalized": "rattan"}
+{"raw": "wicker", "normalized": "rattan"}
+{"raw": "wicker/ rattan", "normalized": "rattan"}
+{"raw": "pe rattan", "normalized": "rattan"}
+{"raw": "high-density polyethylene wicker", "normalized": "rattan"}
+{"raw": "polyrattan", "normalized": "rattan"}
+{"raw": "plastic", "normalized": "plastic"}
+{"raw": "resin", "normalized": "resin"}
+{"raw": "plastic/resin", "normalized": "plastic"}
+{"raw": "polyethylene", "normalized": "plastic"}
+{"raw": "polypropylene/olefin", "normalized": "plastic"}
+{"raw": "polypropylene pile", "normalized": "plastic"}
+{"raw": "100 % pvc", "normalized": "plastic"}
+{"raw": "pvc", "normalized": "plastic"}
+{"raw": "polycarbonate", "normalized": "plastic"}
+{"raw": "vinyl", "normalized": "plastic"}
+{"raw": "synthetics", "normalized": "synthetics"}
+{"raw": "acrylic", "normalized": "plastic"}
+{"raw": "plexiglass", "normalized": "plastic"}
+{"raw": "stone", "normalized": "stone"}
+{"raw": "natural stone", "normalized": "stone"}
+{"raw": "stone/concrete", "normalized": "stone"}
+{"raw": "concrete", "normalized": "stone"}
+{"raw": "ceramic", "normalized": "ceramic"}
+{"raw": "stoneware", "normalized": "ceramic"}
+{"raw": "faux marble", "normalized": "stone"}
+{"raw": "genuine marble", "normalized": "stone"}
+{"raw": "glass", "normalized": "glass"}
+{"raw": "beveled glass", "normalized": "glass"}
+{"raw": "mirror", "normalized": "glass"}
+{"raw": "jute", "normalized": "jute"}
+{"raw": "paper", "normalized": "paper"}
+{"raw": "paper laminate", "normalized": "paper"}
+{"raw": "feathers", "normalized": "feathers"}
+{"raw": "feather", "normalized": "feathers"}
+{"raw": "felt", "normalized": "felt"}
+{"raw": "laminate", "normalized": "laminate"}
+{"raw": "polystone", "normalized": "resin"}
+{"raw": "none", "normalized": "unknown"}
+{"raw": "no backing", "normalized": "unknown"}
+{"raw": "no handles , knobs , or accents", "normalized": "unknown"}
+{"raw": "1", "normalized": "unknown"}
+{"raw": "same as front", "normalized": "unknown"}
+{"raw": "unavailable", "normalized": "unknown"}
+{"raw": "other", "normalized": "unknown"}
+{"raw": "unknown", "normalized": "unknown"}
+{"raw": "wax", "normalized": "wax"}

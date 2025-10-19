@@ -1,0 +1,66 @@
+{"raw": "traditional", "normalized": "traditional"}
+{"raw": "american traditional", "normalized": "traditional"}
+{"raw": "ornate traditional", "normalized": "traditional"}
+{"raw": "youth traditional", "normalized": "traditional"}
+{"raw": "modern", "normalized": "modern"}
+{"raw": "ultra-modern", "normalized": "modern"}
+{"raw": "sleek & chic modern", "normalized": "modern"}
+{"raw": "bold & eclectic modern", "normalized": "modern"}
+{"raw": "natural modern", "normalized": "modern"}
+{"raw": "teen modern", "normalized": "modern"}
+{"raw": "contemporary/modern", "normalized": "modern"}
+{"raw": "modern & contemporary", "normalized": "modern"}
+{"raw": "modern rustic", "normalized": "modern"}
+{"raw": "mid-century modern", "normalized": "modern"}
+{"raw": "transitional modern", "normalized": "modern"}
+{"raw": "contemporary glam", "normalized": "contemporary"}
+{"raw": "contemporary boho", "normalized": "contemporary"}
+{"raw": "contemporary industrial", "normalized": "contemporary"}
+{"raw": "modern farmhouse", "normalized": "contemporary"}
+{"raw": "transitional traditional", "normalized": "transitional"}
+{"raw": "transitional", "normalized": "transitional"}
+{"raw": "farmhouse", "normalized": "country"}
+{"raw": "country", "normalized": "country"}
+{"raw": "country / farmhouse", "normalized": "country"}
+{"raw": "farmhouse / country", "normalized": "country"}
+{"raw": "classic farmhouse", "normalized": "country"}
+{"raw": "cottage / country", "normalized": "country"}
+{"raw": "country/cottage", "normalized": "country"}
+{"raw": "french country", "normalized": "country"}
+{"raw": "cottage americana", "normalized": "americana"}
+{"raw": "barnwood", "normalized": "country"}
+{"raw": "boho", "normalized": "boho"}
+{"raw": "classic boho", "normalized": "boho"}
+{"raw": "bohemian", "normalized": "boho"}
+{"raw": "boho modern", "normalized": "boho"}
+{"raw": "youth boho", "normalized": "boho"}
+{"raw": "contemporary boho", "normalized": "boho"}
+{"raw": "glam", "normalized": "glam"}
+{"raw": "classic glam", "normalized": "glam"}
+{"raw": "ornate glam", "normalized": "glam"}
+{"raw": "posh & luxe", "normalized": "glam"}
+{"raw": "youth glam", "normalized": "glam"}
+{"raw": "industrial", "normalized": "industrial"}
+{"raw": "classic industrial", "normalized": "industrial"}
+{"raw": "rustic", "normalized": "rustic"}
+{"raw": "lodge", "normalized": "lodge"}
+{"raw": "mountain lodge", "normalized": "lodge"}
+{"raw": "desert lodge", "normalized": "lodge"}
+{"raw": "urban rustic", "normalized": "rustic"}
+{"raw": "reclaimed wood", "normalized": "rustic"}
+{"raw": "coastal", "normalized": "coastal"}
+{"raw": "beach", "normalized": "coastal"}
+{"raw": "beachy", "normalized": "coastal"}
+{"raw": "youth coastal", "normalized": "coastal"}
+{"raw": "scandinavian", "normalized": "scandinavian"}
+{"raw": "asian inspired", "normalized": "asian"}
+{"raw": "global inspired", "normalized": "global"}
+{"raw": "nautical", "normalized": "nautical"}
+{"raw": "retro", "normalized": "retro"}
+{"raw": "eclectic", "normalized": "eclectic"}
+{"raw": "youth", "normalized": "youth"}
+{"raw": "youth country", "normalized": "youth"}
+{"raw": "children's", "normalized": "kids"}
+{"raw": "classic", "normalized": "classic"}
+{"raw": "casual", "normalized": "casual"}
+{"raw": "formal", "normalized": "formal"}

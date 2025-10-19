@@ -1,0 +1,140 @@
+{"raw": "black", "normalized": "black"}
+{"raw": "matte black", "normalized": "black"}
+{"raw": "black/white", "normalized": ["black", "white"]}
+{"raw": "black & white", "normalized": ["black", "white"]}
+{"raw": "black/brown", "normalized": ["black", "brown"]}
+{"raw": "black/gold", "normalized": ["black", "gold"]}
+{"raw": "black/gray", "normalized": ["black", "gray"]}
+{"raw": "black/beige", "normalized": ["black", "beige"]}
+{"raw": "white", "normalized": "white"}
+{"raw": "off-white", "normalized": "white"}
+{"raw": "off white", "normalized": "white"}
+{"raw": "ivory", "normalized": "ivory"}
+{"raw": "cream", "normalized": "cream"}
+{"raw": "white/gray", "normalized": ["white", "gray"]}
+{"raw": "white/black", "normalized": ["white", "black"]}
+{"raw": "white/brown", "normalized": ["white", "brown"]}
+{"raw": "white/blue", "normalized": ["white", "blue"]}
+{"raw": "linen white", "normalized": "white"}
+{"raw": "pure white", "normalized": "white"}
+{"raw": "distressed white", "normalized": "white"}
+{"raw": "white wash", "normalized": "white"}
+{"raw": "gray", "normalized": "gray"}
+{"raw": "grey", "normalized": "gray"}
+{"raw": "light gray", "normalized": "light gray"}
+{"raw": "dark gray", "normalized": "dark gray"}
+{"raw": "charcoal", "normalized": "gray"}
+{"raw": "charcoal gray", "normalized": "charcoal gray"}
+{"raw": "gray stone", "normalized": "gray"}
+{"raw": "gray/white", "normalized": ["gray", "white"]}
+{"raw": "gray/brown", "normalized": ["gray", "brown"]}
+{"raw": "gray/black", "normalized": ["gray", "black"]}
+{"raw": "slate gray", "normalized": "slate gray"}
+{"raw": "gray wash", "normalized": "gray wash"}
+{"raw": "gray oak", "normalized": "gray"}
+{"raw": "light grey", "normalized": "light gray"}
+{"raw": "brown", "normalized": "brown"}
+{"raw": "dark brown", "normalized": "brown"}
+{"raw": "medium brown", "normalized": "brown"}
+{"raw": "light brown", "normalized": "brown"}
+{"raw": "espresso", "normalized": "brown"}
+{"raw": "cappuccino", "normalized": "brown"}
+{"raw": "chocolate", "normalized": "brown"}
+{"raw": "coffee", "normalized": "brown"}
+{"raw": "walnut", "normalized": "brown"}
+{"raw": "walnut brown", "normalized": "brown"}
+{"raw": "brown/black", "normalized": ["brown", "black"]}
+{"raw": "brown/gray", "normalized": ["brown", "gray"]}
+{"raw": "brown/beige", "normalized": ["brown", "beige"]}
+{"raw": "brown cherry", "normalized": "brown"}
+{"raw": "cherry", "normalized": "brown"}
+{"raw": "cherry oak", "normalized": "brown"}
+{"raw": "mahogany", "normalized": "brown"}
+{"raw": "oak", "normalized": "brown"}
+{"raw": "teak", "normalized": "brown"}
+{"raw": "rustic brown", "normalized": "brown"}
+{"raw": "weathered oak", "normalized": "brown"}
+{"raw": "rustic oak", "normalized": "brown"}
+{"raw": "dark walnut", "normalized": "brown"}
+{"raw": "antique walnut", "normalized": "brown"}
+{"raw": "dark oak", "normalized": "brown"}
+{"raw": "natural brown", "normalized": "brown"}
+{"raw": "beige", "normalized": "beige"}
+{"raw": "tan", "normalized": "beige"}
+{"raw": "taupe", "normalized": "beige"}
+{"raw": "sand", "normalized": "beige"}
+{"raw": "light beige", "normalized": "beige"}
+{"raw": "oatmeal", "normalized": "beige"}
+{"raw": "beige/black", "normalized": ["beige", "black"]}
+{"raw": "beige/brown", "normalized": ["beige", "brown"]}
+{"raw": "red", "normalized": "red"}
+{"raw": "red/white", "normalized": ["red", "white"]}
+{"raw": "red/black", "normalized": ["red", "black"]}
+{"raw": "dark cherry", "normalized": "crimson"}
+{"raw": "blue/red", "normalized": ["blue", "red"]}
+{"raw": "orange", "normalized": "orange"}
+{"raw": "caramel", "normalized": "orange"}
+{"raw": "copper", "normalized": "orange"}
+{"raw": "amber", "normalized": "orange"}
+{"raw": "golden", "normalized": "gold"}
+{"raw": "yellow", "normalized": "yellow"}
+{"raw": "yellow/green", "normalized": ["yellow", "green"]}
+{"raw": "gold", "normalized": "gold"}
+{"raw": "antique gold", "normalized": "gold"}
+{"raw": "champagne", "normalized": "gold"}
+{"raw": "green", "normalized": "green"}
+{"raw": "green/blue", "normalized": ["green", "blue"]}
+{"raw": "natural green", "normalized": "green"}
+{"raw": "blue", "normalized": "blue"}
+{"raw": "navy", "normalized": "navy"}
+{"raw": "navy blue", "normalized": "navy blue"}
+{"raw": "light blue", "normalized": "light blue"}
+{"raw": "dark blue", "normalized": "dark blue"}
+{"raw": "blue/white", "normalized": ["blue", "white"]}
+{"raw": "blue/gray", "normalized": ["blue", "gray"]}
+{"raw": "blue/green", "normalized": ["blue", "green"]}
+{"raw": "blue/yellow", "normalized": ["blue", "yellow"]}
+{"raw": "blue/beige", "normalized": ["blue", "beige"]}
+{"raw": "turquoise", "normalized": "blue"}
+{"raw": "teal", "normalized": "blue"}
+{"raw": "aqua", "normalized": "blue"}
+{"raw": "purple", "normalized": "purple"}
+{"raw": "plum", "normalized": "purple"}
+{"raw": "blush", "normalized": "purple"}
+{"raw": "pink", "normalized": "pink"}
+{"raw": "bronze", "normalized": "bronze"}
+{"raw": "antique bronze", "normalized": "bronze"}
+{"raw": "dark bronze", "normalized": "bronze"}
+{"raw": "brass", "normalized": "bronze"}
+{"raw": "antique brass", "normalized": "bronze"}
+{"raw": "silver", "normalized": "silver"}
+{"raw": "chrome", "normalized": "silver"}
+{"raw": "stainless steel", "normalized": "silver"}
+{"raw": "pewter", "normalized": "silver"}
+{"raw": "brushed nickel", "normalized": "silver"}
+{"raw": "nickel", "normalized": "silver"}
+{"raw": "gunmetal", "normalized": "silver"}
+{"raw": "metal", "normalized": "silver"}
+{"raw": "clear", "normalized": "clear"}
+{"raw": "transparent", "normalized": "clear"}
+{"raw": "mirrored", "normalized": "clear"}
+{"raw": "glass", "normalized": "clear"}
+{"raw": "clear glass", "normalized": "clear"}
+{"raw": "natural", "normalized": "natural"}
+{"raw": "natural wood", "normalized": "natural"}
+{"raw": "natural teak", "normalized": "natural"}
+{"raw": "unfinished", "normalized": "natural"}
+{"raw": "wood", "normalized": "brown"}
+{"raw": "multicolor", "normalized": "multicolor"}
+{"raw": "multi", "normalized": "multicolor"}
+{"raw": "multi-colored", "normalized": "multicolor"}
+{"raw": "linen", "normalized": "white"}
+{"raw": "yes", "normalized": "unknown"}
+{"raw": "no", "normalized": "unknown"}
+{"raw": "same as front", "normalized": "unknown"}
+{"raw": "non-adjustable", "normalized": "unknown"}
+{"raw": "", "normalized": "unknown"}
+{"raw": "80", "normalized": "unknown"}
+{"raw": "90", "normalized": "unknown"}
+{"raw": "2700", "normalized": "unknown"}
+{"raw": "3000", "normalized": "unknown"}

@@ -1,0 +1,10 @@
+{"feature_type": "material", "category": "premium", "weight": 1.4, "items": ["mahogany", "walnut", "teak", "solid hardwood", "brass", "bronze", "chrome", "marble", "stone", "soapstone", "crystal", "glass"]}
+{"feature_type": "material", "category": "mid_range", "weight": 1.1, "items": ["wood", "acacia", "bamboo", "steel", "aluminum", "metal", "ceramic", "canvas", "cotton", "linen"]}
+{"feature_type": "material", "category": "budget", "weight": 0.85, "items": ["particle board", "laminate", "plastic", "polyester", "synthetics", "foam", "resin", "wax"]}
+{"feature_type": "style", "category": "premium", "weight": 1.3, "items": ["traditional", "classic", "glam", "historical", "vintage", "scandinavian", "minimalist"]}
+{"feature_type": "style", "category": "mid_range", "weight": 1.1, "items": ["modern", "contemporary", "industrial", "transitional", "coastal"]}
+{"feature_type": "style", "category": "budget", "weight": 0.9, "items": ["youth", "casual", "functional", "rustic", "country", "lodge"]}
+{"feature_type": "countryoforigin", "category": "premium", "weight": 1.25, "items": ["USA", "Canada", "Australia","Italy", "France", "Germany", "Sweden", "Norway", "Netherlands", "UK", "Scotland", "Ireland", "Israel", "Taiwan"]}
+{"feature_type": "countryoforigin", "category": "mid_range", "weight": 1.05, "items": ["Spain", "Poland", "Turkey", "Brazil", "Mexico"]}
+{"feature_type": "countryoforigin", "category": "budget", "weight": 0.9, "items": ["China", "India", "Indonesia", "Malaysia", "Philippines", "Vietnam", "Egypt", "Thailand"]}
+{"feature_type": "rating_config", "min_rating": 1.0, "max_rating": 5.0, "rating_weight": 0.15, "review_count_weight": 0.10, "min_review_count": 1, "max_review_count": 10000, "rating_thresholds": {"excellent": [4.5, 5.0, 1.2], "very_good": [4.0, 4.5, 1.1], "good": [3.5, 4.0, 1.05], "average": [3.0, 3.5, 1.0], "below_average": [2.5, 3.0, 0.95], "poor": [1.0, 2.5, 0.9]}}

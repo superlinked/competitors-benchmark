@@ -1,0 +1,102 @@
+[
+  {
+    "query_id": "synth-001",
+    "query_type": "synth",
+    "query_text": "glam festive hats for holidays, parties, or costume events",
+    "query_params": {
+      "product_class": "Holiday Hats",
+      "style": "glam",
+      "product_description": "festive hats for holidays, parties, or costume events"
+    }
+  },
+  {
+    "query_id": "synth-002",
+    "query_type": "synth",
+    "query_text": "industrial adjustable standing desks for office or home use",
+    "query_params": {
+      "product_class": "Standing Desk",
+      "style": "industrial",
+      "product_description": "industrial adjustable standing desks for office or home use"
+    }
+  },
+  {
+    "query_id": "synth-003",
+    "query_type": "synth",
+    "query_text": "elegant ceramic tea pots for afternoon tea or hosting guests",
+    "query_params": {
+      "product_class": "Tea Pots",
+      "material": "ceramic",
+      "product_description": "elegant ceramic tea pots for afternoon tea or hosting guests"
+    }
+  },
+  {
+    "query_id": "synth-004",
+    "query_type": "synth",
+    "query_text": "decorative wooden indian elephant statues for cultural or themed decor",
+    "query_params": {
+      "product_class": "Decorative Statues",
+      "material": "wood",
+      "product_description": "decorative wooden indian elephant statues for cultural or themed decor"
+    }
+  },
+  {
+    "query_id": "synth-005",
+    "query_type": "synth",
+    "query_text": "decorative bowls for modern homes",
+    "query_params": {
+      "product_class": "Decorative Bowls",
+      "style": "modern",
+      "product_description": "decorative bowls for modern homes"
+    }
+  },
+  {
+    "query_id": "synth-006",
+    "query_type": "synth",
+    "query_text": "kids beds with disney characters or theme-based designs",
+    "query_params": {
+      "product_class": "Themed Kids Beds",
+      "style": "kids",
+      "product_description": "kids beds with disney characters or theme-based designs"
+    }
+  },
+  {
+    "query_id": "synth-007",
+    "query_type": "synth",
+    "query_text": "traditional vintage antique items for home decor",
+    "query_params": {
+      "product_class": "Antiques",
+      "style": "traditional",
+      "product_description": "vintage antique items for home decor"
+    }
+  },
+  {
+    "query_id": "synth-008",
+    "query_type": "synth",
+    "query_text": "large decorative stone ponds for home or garden",
+    "query_params": {
+      "product_class": "Artificial Ponds",
+      "material": "stone",
+      "product_description": "large decorative ponds for home or garden"
+    }
+  },
+  {
+    "query_id": "synth-009",
+    "query_type": "synth",
+    "query_text": "handmade scented candles made of natural wax",
+    "query_params": {
+      "product_class": "Candles",
+      "material": "wax",
+      "product_description": "handmade scented candles"
+    }
+  },
+  {
+    "query_id": "synth-010",
+    "query_type": "synth",
+    "query_text": "fantasy flags from fictional realms or magical worlds, only fabric",
+    "query_params": {
+      "product_class": "Flags",
+      "material": "fabric",
+      "product_description": "fantasy flags from fictional realms or magical worlds, only fabric"
+    }
+  }
+]

@@ -1,0 +1,860 @@
+{"product_class": "Area Rugs", "product_class_fixed": "Area Rugs"}
+{"product_class": "Accent Chairs", "product_class_fixed": "Accent Chairs"}
+{"product_class": "Beds", "product_class_fixed": "Beds"}
+{"product_class": "Coffee & Cocktail Tables", "product_class_fixed": "Coffee Tables"}
+{"product_class": "Floor & Wall Tile", "product_class_fixed": "Floor Tiles"}
+{"product_class": "Bar Stools", "product_class_fixed": "Bar Stools"}
+{"product_class": "Accent Pillows", "product_class_fixed": "Accent Pillows"}
+{"product_class": "End Tables", "product_class_fixed": "End Tables"}
+{"product_class": "Desks", "product_class_fixed": "Desks"}
+{"product_class": "Dining Tables", "product_class_fixed": "Dining Tables"}
+{"product_class": "Wall Art", "product_class_fixed": "Wall Art"}
+{"product_class": "Dining Chairs", "product_class_fixed": "Dining Chairs"}
+{"product_class": "Bedding Sets", "product_class_fixed": "Bedding Sets"}
+{"product_class": "Curtains & Drapes", "product_class_fixed": "Curtains"}
+{"product_class": "Vanities", "product_class_fixed": "Vanities"}
+{"product_class": "Sofa & Console Tables", "product_class_fixed": "Sofa Tables"}
+{"product_class": "Dressers & Chests", "product_class_fixed": "Dressers"}
+{"product_class": "Cabinet and Drawer Pulls", "product_class_fixed": "Drawer Pulls"}
+{"product_class": "Wall D\u00e9cor", "product_class_fixed": "Wall Decor"}
+{"product_class": "Recliners", "product_class_fixed": "Recliners"}
+{"product_class": "Outdoor Conversation Sets", "product_class_fixed": "Conversation Sets"}
+{"product_class": "Wall & Accent Mirrors", "product_class_fixed": "Accent Mirrors"}
+{"product_class": "TV Stands & Entertainment Centers", "product_class_fixed": "TV Stands"}
+{"product_class": "Office Chairs", "product_class_fixed": "Office Chairs"}
+{"product_class": "Chandeliers", "product_class_fixed": "Chandeliers"}
+{"product_class": "Sectionals", "product_class_fixed": "Sectionals"}
+{"product_class": "Kitchen Mats", "product_class_fixed": "Kitchen Mats"}
+{"product_class": "Decorative Objects", "product_class_fixed": "Decorative Objects"}
+{"product_class": "Sofas", "product_class_fixed": "Sofas"}
+{"product_class": "Bathroom Sink Faucets", "product_class_fixed": "Bathroom Faucets"}
+{"product_class": "Patio Sofas", "product_class_fixed": "Patio Sofas"}
+{"product_class": "Table Lamps", "product_class_fixed": "Table Lamps"}
+{"product_class": "Accent Chests / Cabinets", "product_class_fixed": "Accent Cabinets"}
+{"product_class": "Doormats", "product_class_fixed": "Doormats"}
+{"product_class": "Furniture Cushions", "product_class_fixed": "Furniture Cushions"}
+{"product_class": "Wall Clocks", "product_class_fixed": "Wall Clocks"}
+{"product_class": "Nightstands", "product_class_fixed": "Nightstands"}
+{"product_class": "Garden Statues", "product_class_fixed": "Garden Statues"}
+{"product_class": "Kitchen Islands", "product_class_fixed": "Kitchen Islands"}
+{"product_class": "Planters", "product_class_fixed": "Planters"}
+{"product_class": "Sheets And Sheet Sets", "product_class_fixed": "Sheet Sets"}
+{"product_class": "Dining Table Sets", "product_class_fixed": "Dining Table Sets"}
+{"product_class": "Faux Florals", "product_class_fixed": "Faux Florals"}
+{"product_class": "Ottomans", "product_class_fixed": "Ottoman Benches"}
+{"product_class": "Bathroom Storage", "product_class_fixed": "Bathroom Storage"}
+{"product_class": "Wall Mounted Shelves", "product_class_fixed": "Wall Shelves"}
+{"product_class": "Fountains", "product_class_fixed": "Fountains"}
+{"product_class": "Bookcases", "product_class_fixed": "Bookcases"}
+{"product_class": "Office Storage Cabinets", "product_class_fixed": "Office Storage Cabinets"}
+{"product_class": "Vanity Lighting", "product_class_fixed": "Vanity Lights"}
+{"product_class": "Canisters & Jars", "product_class_fixed": "Canisters"}
+{"product_class": "Bars & Bar Sets", "product_class_fixed": "Bar Sets"}
+{"product_class": "Shoe Storage", "product_class_fixed": "Shoe Storage"}
+{"product_class": "Kids Chairs", "product_class_fixed": "Kids Chairs"}
+{"product_class": "Accent Chairs|Dining Chairs", "product_class_fixed": "Accent Chairs"}
+{"product_class": "Kids Beds", "product_class_fixed": "Kids Beds"}
+{"product_class": "Light Bulbs", "product_class_fixed": "Light Bulbs"}
+{"product_class": "Wall Plates", "product_class_fixed": "Wall Plates"}
+{"product_class": "Bath Accessories", "product_class_fixed": "Bath Accessories"}
+{"product_class": "Patio Lounge Chairs", "product_class_fixed": "Lounge Chairs"}
+{"product_class": "Indoor Chaise Lounges", "product_class_fixed": "Chaise Lounges"}
+{"product_class": "Serving Dishes & Platters", "product_class_fixed": "Serving Platters"}
+{"product_class": "Headboards", "product_class_fixed": "Headboards"}
+{"product_class": "Sideboards & Buffets", "product_class_fixed": "Sideboards"}
+{"product_class": "Flush Mount Lighting", "product_class_fixed": "Flush Mount Lights"}
+{"product_class": "Patio Dining Sets", "product_class_fixed": "Patio Dining Sets"}
+{"product_class": "Cabinet and Drawer Knobs", "product_class_fixed": "Drawer Knobs"}
+{"product_class": "Daybeds & Guest Beds", "product_class_fixed": "Daybeds"}
+{"product_class": "Shower Curtain Hooks and Accessories", "product_class_fixed": "Shower Curtain Hooks"}
+{"product_class": "Hampers & Baskets", "product_class_fixed": "Hampers"}
+{"product_class": "Curtain Hardware & Accessories", "product_class_fixed": "Curtain Hardware"}
+{"product_class": "Plant & Telephone Tables", "product_class_fixed": "Plant Tables"}
+{"product_class": "Molding & Millwork", "product_class_fixed": "Moldings"}
+{"product_class": "Living Room Table Sets", "product_class_fixed": "Living Room Table Sets"}
+{"product_class": "Kitchen Sinks", "product_class_fixed": "Kitchen Sinks"}
+{"product_class": "Shower & Tub Doors", "product_class_fixed": "Shower Doors"}
+{"product_class": "Slow Cookers", "product_class_fixed": "Slow Cookers"}
+{"product_class": "Coat Racks and Hooks", "product_class_fixed": "Coat Racks"}
+{"product_class": "Shower Faucets & Systems", "product_class_fixed": "Shower Faucets"}
+{"product_class": "Projector Screens", "product_class_fixed": "Projector Screens"}
+{"product_class": "Towel & Robe Hooks", "product_class_fixed": "Towel Hooks"}
+{"product_class": "Boxes, Bins, Baskets, & Buckets", "product_class_fixed": "Storage Boxes"}
+{"product_class": "Wall Sconces", "product_class_fixed": "Wall Sconces"}
+{"product_class": "Living Room Sets", "product_class_fixed": "Living Room Sets"}
+{"product_class": "Fixture Parts And Components", "product_class_fixed": "Fixture Parts"}
+{"product_class": "Shower Curtains", "product_class_fixed": "Shower Curtains"}
+{"product_class": "Toilet Paper Holders", "product_class_fixed": "Toilet Paper Holders"}
+{"product_class": "Crib Bedding Sets", "product_class_fixed": "Crib Bedding Sets"}
+{"product_class": "Outdoor Wall Lights", "product_class_fixed": "Outdoor Wall Lights"}
+{"product_class": "Furniture Covers", "product_class_fixed": "Furniture Covers"}
+{"product_class": "Shelving & Racks", "product_class_fixed": "Shelving & Racks"}
+{"product_class": "Plates & Saucers", "product_class_fixed": "Plates"}
+{"product_class": "Kitchen Faucets", "product_class_fixed": "Kitchen Faucets"}
+{"product_class": "Carts & Stands", "product_class_fixed": "Carts"}
+{"product_class": "Foam and Latex Mattresses", "product_class_fixed": "Mattresses"}
+{"product_class": "Mattress Toppers and Pads", "product_class_fixed": "Mattress Pads"}
+{"product_class": "Faux Plants and Trees", "product_class_fixed": "Faux Plants"}
+{"product_class": "Deck Boxes", "product_class_fixed": "Deck Boxes"}
+{"product_class": "Vanity Bases", "product_class_fixed": "Vanity Bases"}
+{"product_class": "Landscape Lighting", "product_class_fixed": "Landscape Lighting"}
+{"product_class": "Greenhouses", "product_class_fixed": "Greenhouses"}
+{"product_class": "Trash Cans & Recycling", "product_class_fixed": "Trash Cans"}
+{"product_class": "Benches", "product_class_fixed": "Benches"}
+{"product_class": "Garden Accents", "product_class_fixed": "Garden Accents"}
+{"product_class": "Patio Chaise Lounges", "product_class_fixed": "Patio Chaise Lounges"}
+{"product_class": "Patio Rockers & Gliders", "product_class_fixed": "Patio Rockers"}
+{"product_class": "Bath Rugs & Mats", "product_class_fixed": "Bath Rugs"}
+{"product_class": "Clothing & Garment Racks", "product_class_fixed": "Clothing Racks"}
+{"product_class": "Food Storage & Dispensers", "product_class_fixed": "Food Storage"}
+{"product_class": "Chairmats", "product_class_fixed": "Chairmats"}
+{"product_class": "Range Hoods", "product_class_fixed": "Range Hoods"}
+{"product_class": "Sheds", "product_class_fixed": "Sheds"}
+{"product_class": "Kids Wall D\u00e9cor", "product_class_fixed": "Kids Wall D\u00e9cor"}
+{"product_class": "Holiday Accents & Decor", "product_class_fixed": "Holiday Accents"}
+{"product_class": "Bread & Loaf Pans", "product_class_fixed": "Bread Pans"}
+{"product_class": "Bed Frames", "product_class_fixed": "Bed Frames"}
+{"product_class": "End Tables|Nightstands", "product_class_fixed": "End Tables"}
+{"product_class": "Under Cabinet Lighting", "product_class_fixed": "Under Cabinet Lighting"}
+{"product_class": "Lighting Shades", "product_class_fixed": "Lighting Shades"}
+{"product_class": "Candle Holders", "product_class_fixed": "Candle Holders"}
+{"product_class": "Folding Tables", "product_class_fixed": "Folding Tables"}
+{"product_class": "Ceiling Fans", "product_class_fixed": "Ceiling Fans"}
+{"product_class": "Shower Heads", "product_class_fixed": "Shower Heads"}
+{"product_class": "Kids Desks", "product_class_fixed": "Kids Desks"}
+{"product_class": "Dining Bowls", "product_class_fixed": "Dining Bowls"}
+{"product_class": "Outdoor Wall Decor", "product_class_fixed": "Outdoor Wall Decor"}
+{"product_class": "Picture Frames", "product_class_fixed": "Picture Frames"}
+{"product_class": "Bike And Sport Racks", "product_class_fixed": "Bike Racks"}
+{"product_class": "Dining Linens", "product_class_fixed": "Dining Linens"}
+{"product_class": "Outdoor Fireplaces", "product_class_fixed": "Outdoor Fireplaces"}
+{"product_class": "Planter Accessories", "product_class_fixed": "Planter Accessories"}
+{"product_class": "Armoires & Wardrobes", "product_class_fixed": "Armoires"}
+{"product_class": "Patio Tables", "product_class_fixed": "Patio Tables"}
+{"product_class": "Strainers, Colanders, & Salad Spinners", "product_class_fixed": "Salad Spinners"}
+{"product_class": "Flatware & Silverware Serving Pieces", "product_class_fixed": "Flatware"}
+{"product_class": "Patio Umbrella Stands & Bases", "product_class_fixed": "Patio Umbrella Stands"}
+{"product_class": "Patio Bar Stools", "product_class_fixed": "Patio Bar Stools"}
+{"product_class": "Safes", "product_class_fixed": "Safes"}
+{"product_class": "Ornaments & Tree D\u00e9cor", "product_class_fixed": "Ornaments"}
+{"product_class": "Office Sets|Desks", "product_class_fixed": "Office Sets"}
+{"product_class": "Kids Dressers & Chests|Dressers & Chests", "product_class_fixed": "Dressers"}
+{"product_class": "Teen Desk Chairs|Office Chairs", "product_class_fixed": "Office Chairs"}
+{"product_class": "Closet Storage & Organization", "product_class_fixed": "Closet Organization"}
+{"product_class": "Innerspring Mattresses", "product_class_fixed": "Mattresses"}
+{"product_class": "Door Levers", "product_class_fixed": "Door Levers"}
+{"product_class": "Adjustable Beds", "product_class_fixed": "Adjustable Beds"}
+{"product_class": "Barn Door Hardware", "product_class_fixed": "Barn Door Hardware"}
+{"product_class": "Mugs & Teacups", "product_class_fixed": "Mugs"}
+{"product_class": "Christmas Trees", "product_class_fixed": "Christmas Trees"}
+{"product_class": "Signs & Sign Holders", "product_class_fixed": "Signs"}
+{"product_class": "Pantry Cabinets", "product_class_fixed": "Pantry Cabinets"}
+{"product_class": "Bed Frames|Beds", "product_class_fixed": "Bed Frames"}
+{"product_class": "Shower & Tub Accessories", "product_class_fixed": "Shower Accessories"}
+{"product_class": "Outdoor Wall Decor|Wall D\u00e9cor", "product_class_fixed": "Outdoor Wall Decor"}
+{"product_class": "Futons|Sofas", "product_class_fixed": "Futons"}
+{"product_class": "Pergolas", "product_class_fixed": "Pergolas"}
+{"product_class": "Reception Sofas & Loveseats|Sofas", "product_class_fixed": "Reception Sofas"}
+{"product_class": "Tubs And Whirlpools", "product_class_fixed": "Whirlpools"}
+{"product_class": "Weather Instruments", "product_class_fixed": "Weather Instruments"}
+{"product_class": "Sofas|Sectionals", "product_class_fixed": "Sofas"}
+{"product_class": "Bathroom Sinks", "product_class_fixed": "Bathroom Sinks"}
+{"product_class": "Beds|Kids Beds", "product_class_fixed": "Beds"}
+{"product_class": "Refrigerators", "product_class_fixed": "Refrigerators"}
+{"product_class": "Massage Chairs|Recliners", "product_class_fixed": "Massage Chairs"}
+{"product_class": "Pet Gates", "product_class_fixed": "Pet Gates"}
+{"product_class": "Sideboards & Buffets|TV Stands & Entertainment Centers", "product_class_fixed": "Sideboards"}
+{"product_class": "Makeup Vanities", "product_class_fixed": "Makeup Vanities"}
+{"product_class": "Mailboxes", "product_class_fixed": "Mailboxes"}
+{"product_class": "Outdoor Lanterns & Lamps", "product_class_fixed": "Outdoor Lanterns"}
+{"product_class": "Wall Paneling", "product_class_fixed": "Wall Paneling"}
+{"product_class": "Fencing & Accessories", "product_class_fixed": "Fencing"}
+{"product_class": "Wall Stickers", "product_class_fixed": "Wall Stickers"}
+{"product_class": "Cooking Utensils", "product_class_fixed": "Cooking Utensils"}
+{"product_class": "Jewelry Boxes", "product_class_fixed": "Jewelry Boxes"}
+{"product_class": "Standard Bed Pillows", "product_class_fixed": "Pillows"}
+{"product_class": "Specialty Serving", "product_class_fixed": "Specialty Serving"}
+{"product_class": "Awnings", "product_class_fixed": "Awnings"}
+{"product_class": "Log Storage", "product_class_fixed": "Log Storage"}
+{"product_class": "Memo Boards", "product_class_fixed": "Memo Boards"}
+{"product_class": "Decorative Trays", "product_class_fixed": "Decorative Trays"}
+{"product_class": "Wine Racks", "product_class_fixed": "Wine Racks"}
+{"product_class": "Interior Doors", "product_class_fixed": "Interior Doors"}
+{"product_class": "Covers & Carry Bags", "product_class_fixed": "Covers"}
+{"product_class": "Benches|Shoe Storage", "product_class_fixed": "Benches"}
+{"product_class": "Desktop Organizers & Desk Pads", "product_class_fixed": "Desktop Organizers"}
+{"product_class": "Bed Accessories", "product_class_fixed": "Bed Accessories"}
+{"product_class": "Poker & Casino Tables", "product_class_fixed": "Poker Tables"}
+{"product_class": "Teen Desks|Desks", "product_class_fixed": "Desks"}
+{"product_class": "Saunas", "product_class_fixed": "Saunas"}
+{"product_class": "Computer Mounts", "product_class_fixed": "Computer Mounts"}
+{"product_class": "Jewelry Armoires", "product_class_fixed": "Jewelry Armoires"}
+{"product_class": "Towel Bars, Racks, and Stands", "product_class_fixed": "Towel Bars"}
+{"product_class": "Bird Cages", "product_class_fixed": "Bird Cages"}
+{"product_class": "Kids Dressers & Chests", "product_class_fixed": "Kids Dressers"}
+{"product_class": "Rocking Chairs", "product_class_fixed": "Rocking Chairs"}
+{"product_class": "Lighting Accessories", "product_class_fixed": "Lighting Accessories"}
+{"product_class": "Office Stools", "product_class_fixed": "Office Stools"}
+{"product_class": "Hybrid Mattresses", "product_class_fixed": "Hybrid Mattresses"}
+{"product_class": "Washer and Dryer Sets", "product_class_fixed": "Washer and Dryer Sets"}
+{"product_class": "Storage Drawers", "product_class_fixed": "Storage Drawers"}
+{"product_class": "Vases, Urns, Jars, & Bottles", "product_class_fixed": "Vases"}
+{"product_class": "Living Room Table Sets|End Tables", "product_class_fixed": "Living Room Table Sets"}
+{"product_class": "Flags", "product_class_fixed": "Flags"}
+{"product_class": "Holiday Lighting", "product_class_fixed": "Holiday Lighting"}
+{"product_class": "Valances & Kitchen Curtains", "product_class_fixed": "Valances"}
+{"product_class": "Lawn Games", "product_class_fixed": "Lawn Games"}
+{"product_class": "Dog and Cat Bowls, Feeders & Accessories", "product_class_fixed": "Dog Bowls"}
+{"product_class": "Accent Stools", "product_class_fixed": "Accent Stools"}
+{"product_class": "Pendant Lights", "product_class_fixed": "Pendant Lights"}
+{"product_class": "Glassware & Barware", "product_class_fixed": "Glassware"}
+{"product_class": "Closet Organizer Accessories", "product_class_fixed": "Closet Organizer Accessories"}
+{"product_class": "Reception Seating Chairs|Accent Chairs", "product_class_fixed": "Reception Seating Chairs"}
+{"product_class": "Mattress Covers and Protectors", "product_class_fixed": "Mattress Protectors"}
+{"product_class": "Blankets And Throws", "product_class_fixed": "Blankets"}
+{"product_class": "Dryers", "product_class_fixed": "Dryers"}
+{"product_class": "Stackable Chairs", "product_class_fixed": "Stackable Chairs"}
+{"product_class": "Waiting Room Chairs", "product_class_fixed": "Waiting Room Chairs"}
+{"product_class": "Teen Bedding|Bedding Sets", "product_class_fixed": "Bedding Sets"}
+{"product_class": "Canopies & Gazebos", "product_class_fixed": "Canopies"}
+{"product_class": "Bulletin Boards, Whiteboards, Chalkboards", "product_class_fixed": "Bulletin Boards"}
+{"product_class": "Teen Beds|Beds", "product_class_fixed": "Beds"}
+{"product_class": "Garage Storage Cabinets", "product_class_fixed": "Garage Storage Cabinets"}
+{"product_class": "Beauty Organizers", "product_class_fixed": "Beauty Organizers"}
+{"product_class": "Bathroom Storage|Wall Mounted Shelves", "product_class_fixed": "Bathroom Storage"}
+{"product_class": "Wreaths", "product_class_fixed": "Wreaths"}
+{"product_class": "Kids Headboards", "product_class_fixed": "Kids Headboards"}
+{"product_class": "Licensed Products|Wall Art", "product_class_fixed": "Wall Art"}
+{"product_class": "Game Chairs", "product_class_fixed": "Game Chairs"}
+{"product_class": "Cabinet Organization", "product_class_fixed": "Cabinet Organization"}
+{"product_class": "Bedding Accessories", "product_class_fixed": "Bedding Accessories"}
+{"product_class": "Door Knobs", "product_class_fixed": "Door Knobs"}
+{"product_class": "Switches, Dimmers & Outlets", "product_class_fixed": "Switches"}
+{"product_class": "Picnic Baskets & Coolers", "product_class_fixed": "Picnic Baskets"}
+{"product_class": "Floor Lamps", "product_class_fixed": "Floor Lamps"}
+{"product_class": "Teen Lounge Furniture|Accent Chairs", "product_class_fixed": "Accent Chairs"}
+{"product_class": "Water Coolers & Dispensers", "product_class_fixed": "Water Coolers"}
+{"product_class": "Mantel & Tabletop Clocks", "product_class_fixed": "Mantel Clocks"}
+{"product_class": "Dinnerware Sets & Place Settings", "product_class_fixed": "Dinnerware"}
+{"product_class": "Peel and Stick Backsplash Tile", "product_class_fixed": "Backsplash Tiles"}
+{"product_class": "Benches|Reception Benches", "product_class_fixed": "Benches"}
+{"product_class": "Futons", "product_class_fixed": "Futons"}
+{"product_class": "Washing Machines", "product_class_fixed": "Washing Machines"}
+{"product_class": "Night Lights", "product_class_fixed": "Night Lights"}
+{"product_class": "Potholders", "product_class_fixed": "Potholders"}
+{"product_class": "Sideboards & Buffets|Accent Chests / Cabinets", "product_class_fixed": "Sideboards"}
+{"product_class": "Chair Accessories", "product_class_fixed": "Chair Accessories"}
+{"product_class": "Pasta Makers & Accessories", "product_class_fixed": "Pasta Makers"}
+{"product_class": "Door Hardware Accessories", "product_class_fixed": "Door Hardware"}
+{"product_class": "Towel Rings", "product_class_fixed": "Towel Rings"}
+{"product_class": "Kitchen Towels", "product_class_fixed": "Kitchen Towels"}
+{"product_class": "Teen Bookcases|Bookcases", "product_class_fixed": "Bookcases"}
+{"product_class": "Teen Lounge Furniture|Ottomans", "product_class_fixed": "Ottoman Benches"}
+{"product_class": "Tub Faucets", "product_class_fixed": "Tub Faucets"}
+{"product_class": "Physical Education Equipment", "product_class_fixed": "Physical Education"}
+{"product_class": "Coasters & Trivets", "product_class_fixed": "Coasters"}
+{"product_class": "Accent Tiles", "product_class_fixed": "Accent Tiles"}
+{"product_class": "Playhouses & Play Tents", "product_class_fixed": "Playhouses"}
+{"product_class": "Patio Bar Stools|Bar Stools", "product_class_fixed": "Bar Stools"}
+{"product_class": "Bookcases|Wall Mounted Shelves", "product_class_fixed": "Bookcases"}
+{"product_class": "Wall Organizers, Wall Baskets, and Key Organizers", "product_class_fixed": "Wall Organizers"}
+{"product_class": "Game Chairs|Office Chairs", "product_class_fixed": "Game Chairs"}
+{"product_class": "Fabric", "product_class_fixed": "Fabric"}
+{"product_class": "Decorative Plates & Bowls", "product_class_fixed": "Decorative Plates"}
+{"product_class": "Slipcovers", "product_class_fixed": "Slipcovers"}
+{"product_class": "Smoke & CO Detectors", "product_class_fixed": "Smoke Detectors"}
+{"product_class": "Serving Bowls", "product_class_fixed": "Serving Bowls"}
+{"product_class": "Food Service Racks & Shelving", "product_class_fixed": "Food Service"}
+{"product_class": "Licensed Products|Kids Wall D\u00e9cor", "product_class_fixed": "Kids Wall D\u00e9cor"}
+{"product_class": "Vanity Tops", "product_class_fixed": "Vanity Tops"}
+{"product_class": "Climbing Toys & Slides", "product_class_fixed": "Climbing Toys"}
+{"product_class": "Ride-On Toys", "product_class_fixed": "Ride-On Toys"}
+{"product_class": "Desks|Sofa & Console Tables", "product_class_fixed": "Desks"}
+{"product_class": "Bean Bags", "product_class_fixed": "Bean Bags"}
+{"product_class": "Wallpaper", "product_class_fixed": "Wallpaper"}
+{"product_class": "Scents & Diffusers", "product_class_fixed": "Scents"}
+{"product_class": "China Cabinets", "product_class_fixed": "China Cabinets"}
+{"product_class": "Teen Beds|Kids Beds", "product_class_fixed": "Kids Beds"}
+{"product_class": "Rackmounts & Rackmount Accessories", "product_class_fixed": "Rackmounts"}
+{"product_class": "Comforters & Duvet Fills|Bedding Sets", "product_class_fixed": "Comforters"}
+{"product_class": "Headboards|Teens Headboards", "product_class_fixed": "Headboards"}
+{"product_class": "Laundry Accessories & Storage", "product_class_fixed": "Laundry Accessories"}
+{"product_class": "Trunks|Coffee & Cocktail Tables", "product_class_fixed": "Trunks"}
+{"product_class": "Dining Chairs|Office Chairs", "product_class_fixed": "Dining Chairs"}
+{"product_class": "Live Plants and Trees", "product_class_fixed": "Live Plants"}
+{"product_class": "Teen Dressers|Dressers & Chests", "product_class_fixed": "Dressers"}
+{"product_class": "Baking Dishes", "product_class_fixed": "Baking Dishes"}
+{"product_class": "Gliders|Recliners", "product_class_fixed": "Gliders"}
+{"product_class": "Greenhouse Accessories", "product_class_fixed": "Greenhouse Accessories"}
+{"product_class": "Cutting Boards", "product_class_fixed": "Cutting Boards"}
+{"product_class": "Swing Set Accessories", "product_class_fixed": "Swing Set Accessories"}
+{"product_class": "Saucepans And Sauciers", "product_class_fixed": "Saucepans"}
+{"product_class": "Bathroom Hardware Sets", "product_class_fixed": "Bathroom Hardware"}
+{"product_class": "Commercial Desks|Desks", "product_class_fixed": "Commercial Desks"}
+{"product_class": "Stackable Chairs|Dining Chairs", "product_class_fixed": "Stackable Chairs"}
+{"product_class": "Protection Plans", "product_class_fixed": "Protection Plans"}
+{"product_class": "Ottomans|Coffee & Cocktail Tables", "product_class_fixed": "Ottomans"}
+{"product_class": "Bath Towels", "product_class_fixed": "Bath Towels"}
+{"product_class": "Bar Carts", "product_class_fixed": "Bar Carts"}
+{"product_class": "TV Trays", "product_class_fixed": "TV Trays"}
+{"product_class": "Flatware & Silverware Sets", "product_class_fixed": "Flatware"}
+{"product_class": "Patio Bar Sets", "product_class_fixed": "Patio Bar Sets"}
+{"product_class": "Clips/Clamps", "product_class_fixed": "Clips"}
+{"product_class": "Reception Benches|Benches", "product_class_fixed": "Reception Benches"}
+{"product_class": "Salt And Pepper Shakers / Grinders (Mills)", "product_class_fixed": "Salt and Pepper"}
+{"product_class": "Beverage Refrigerators & Coolers", "product_class_fixed": "Beverage Refrigerators"}
+{"product_class": "Skillets & Fry Pans", "product_class_fixed": "Skillets"}
+{"product_class": "Hangers", "product_class_fixed": "Hangers"}
+{"product_class": "Valves", "product_class_fixed": "Valves"}
+{"product_class": "Ceiling Fan Parts and Accessories", "product_class_fixed": "Ceiling Fan Parts"}
+{"product_class": "Napkin Holders & Paper Towel Holders", "product_class_fixed": "Napkin Holders"}
+{"product_class": "Bird Play Stand & Playcenters", "product_class_fixed": "Bird Play Stand"}
+{"product_class": "Bed Skirts", "product_class_fixed": "Bed Skirts"}
+{"product_class": "Dollies", "product_class_fixed": "Dollies"}
+{"product_class": "Placemats, Chargers, & Napkins", "product_class_fixed": "Placemats"}
+{"product_class": "Candles", "product_class_fixed": "Candles"}
+{"product_class": "Beverage Servers", "product_class_fixed": "Beverage Servers"}
+{"product_class": "Furniture Parts", "product_class_fixed": "Furniture Parts"}
+{"product_class": "Patio Dining Chairs", "product_class_fixed": "Patio Dining Chairs"}
+{"product_class": "Patio Tables|Coffee & Cocktail Tables", "product_class_fixed": "Coffee Tables"}
+{"product_class": "Bar & Wine Tools", "product_class_fixed": "Bar & Wine Tools"}
+{"product_class": "Buffet Accessories", "product_class_fixed": "Buffet Accessories"}
+{"product_class": "Reception Seating Chairs", "product_class_fixed": "Reception Seating Chairs"}
+{"product_class": "Pendant Lights|Chandeliers", "product_class_fixed": "Pendant Lights"}
+{"product_class": "Large Appliance Accessories", "product_class_fixed": "Large Appliance Accessories"}
+{"product_class": "Cabinetry", "product_class_fixed": "Cabinetry"}
+{"product_class": "Benches|Ottomans", "product_class_fixed": "Benches"}
+{"product_class": "Kids Bookcases", "product_class_fixed": "Kids Bookcases"}
+{"product_class": "Shelving Accessories", "product_class_fixed": "Shelving Accessories"}
+{"product_class": "Massage Chairs", "product_class_fixed": "Massage Chairs"}
+{"product_class": "Adirondack Chairs", "product_class_fixed": "Adirondack Chairs"}
+{"product_class": "Arbors", "product_class_fixed": "Arbors"}
+{"product_class": "Bakeware Sets", "product_class_fixed": "Bakeware"}
+{"product_class": "Teen Nightstands|Nightstands", "product_class_fixed": "Nightstands"}
+{"product_class": "Life Size Cutouts|Licensed Products", "product_class_fixed": "Life Size Cutouts"}
+{"product_class": "Dog Beds & Mats", "product_class_fixed": "Dog Beds"}
+{"product_class": "Flatware & Silverware Single Pieces", "product_class_fixed": "Flatware"}
+{"product_class": "Reception Sofas & Loveseats", "product_class_fixed": "Reception Sofas"}
+{"product_class": "Patio Sofas|Outdoor Conversation Sets", "product_class_fixed": "Conversation Sets"}
+{"product_class": "Coolers", "product_class_fixed": "Coolers"}
+{"product_class": "Classroom Chairs", "product_class_fixed": "Classroom Chairs"}
+{"product_class": "Outdoor Hanging Lights", "product_class_fixed": "Outdoor Hanging Lights"}
+{"product_class": "Teen Dressers|Kids Dressers & Chests|Dressers & Chests", "product_class_fixed": "Dressers"}
+{"product_class": "Kids Wall D\u00e9cor|Licensed Products", "product_class_fixed": "Kids Wall D\u00e9cor"}
+{"product_class": "Coffee Makers", "product_class_fixed": "Coffee Makers"}
+{"product_class": "Vinyl Flooring", "product_class_fixed": "Vinyl Flooring"}
+{"product_class": "Living Room Table Sets|Coffee & Cocktail Tables", "product_class_fixed": "Living Room Table Sets"}
+{"product_class": "Hot Tub Accessories", "product_class_fixed": "Hot Tub Accessories"}
+{"product_class": "Gas Grills", "product_class_fixed": "Gas Grills"}
+{"product_class": "Kitchen Sink Accessories", "product_class_fixed": "Kitchen Sink Accessories"}
+{"product_class": "Life Size Cutouts", "product_class_fixed": "Life Size Cutouts"}
+{"product_class": "String Lights", "product_class_fixed": "String Lights"}
+{"product_class": "Filing Cabinets", "product_class_fixed": "Filing Cabinets"}
+{"product_class": "Commercial Ceiling Lighting", "product_class_fixed": "Commercial Ceiling Lighting"}
+{"product_class": "Beekeeping Supplies", "product_class_fixed": "Beekeeping Supplies"}
+{"product_class": "Kids Chairs|Soft Seating", "product_class_fixed": "Kids Chairs"}
+{"product_class": "Kitchen Sink Storage", "product_class_fixed": "Kitchen Sink Storage"}
+{"product_class": "Patio Benches", "product_class_fixed": "Patio Benches"}
+{"product_class": "Utensil Crocks, Caddies, Chests and Spoon Rests", "product_class_fixed": "Utensil Crocks"}
+{"product_class": "Picture Frames|Licensed Products", "product_class_fixed": "Picture Frames"}
+{"product_class": "Game Table Accessories", "product_class_fixed": "Game Table Accessories"}
+{"product_class": "Bookends", "product_class_fixed": "Bookends"}
+{"product_class": "Commercial Office Chairs|Office Chairs", "product_class_fixed": "Commercial Office Chairs"}
+{"product_class": "Lecterns & Podiums|Hostess Stands", "product_class_fixed": "Lecterns"}
+{"product_class": "Tapestries and Wall Hangings", "product_class_fixed": "Tapestries"}
+{"product_class": "Security Lighting", "product_class_fixed": "Security Lighting"}
+{"product_class": "Accent Chairs|Office Chairs", "product_class_fixed": "Accent Chairs"}
+{"product_class": "Kids Tables and Sets", "product_class_fixed": "Kids Tables"}
+{"product_class": "Coffee Makers|Espresso Machines", "product_class_fixed": "Coffee Makers"}
+{"product_class": "Bird Feeders", "product_class_fixed": "Bird Feeders"}
+{"product_class": "Teen Nightstands|End Tables|Nightstands", "product_class_fixed": "Nightstands"}
+{"product_class": "Grill Parts", "product_class_fixed": "Grill Parts"}
+{"product_class": "Bird Baths", "product_class_fixed": "Bird Baths"}
+{"product_class": "Outdoor Flush Mounts", "product_class_fixed": "Outdoor Flush Mounts"}
+{"product_class": "Commercial Outdoor Lighting", "product_class_fixed": "Commercial Outdoor Lighting"}
+{"product_class": "Jewelry Armoires|Wall & Accent Mirrors", "product_class_fixed": "Jewelry Armoires"}
+{"product_class": "Kitchen Aprons", "product_class_fixed": "Kitchen Aprons"}
+{"product_class": "Lecterns & Podiums", "product_class_fixed": "Lecterns"}
+{"product_class": "Room Dividers|Bookcases", "product_class_fixed": "Room Dividers"}
+{"product_class": "Stock Pots, Soup Pots and Multi-Pots", "product_class_fixed": "Stock Pots"}
+{"product_class": "Water Bottles, Travel Mugs & Tumblers", "product_class_fixed": "Water Bottles"}
+{"product_class": "Adirondack Chairs|Patio Rockers & Gliders", "product_class_fixed": "Adirondack Chairs"}
+{"product_class": "Teen Accent Pillows|Accent Pillows", "product_class_fixed": "Accent Pillows"}
+{"product_class": "Benches|Reception Benches|Ottomans", "product_class_fixed": "Benches"}
+{"product_class": "Teens Headboards|Headboards", "product_class_fixed": "Headboards"}
+{"product_class": "Teen Beds|Beds|Kids Beds", "product_class_fixed": "Kids Beds"}
+{"product_class": "Kids Wall D\u00e9cor|Wall Stickers", "product_class_fixed": "Kids Wall D\u00e9cor"}
+{"product_class": "Classroom Decorations", "product_class_fixed": "Classroom Decorations"}
+{"product_class": "Kids Dressers & Chests|Teen Dressers|Dressers & Chests", "product_class_fixed": "Dressers"}
+{"product_class": "Fountain Accessories", "product_class_fixed": "Fountain Accessories"}
+{"product_class": "Vanity Lighting|Wall Sconces", "product_class_fixed": "Vanity Lighting"}
+{"product_class": "Cooktops", "product_class_fixed": "Cooktops"}
+{"product_class": "Poker & Casino Tables|Dining Tables", "product_class_fixed": "Poker Tables"}
+{"product_class": "Rocking Horses", "product_class_fixed": "Rocking Horses"}
+{"product_class": "Entry Sets", "product_class_fixed": "Entry Sets"}
+{"product_class": "Shower Curtain Rods", "product_class_fixed": "Shower Curtain Rods"}
+{"product_class": "Camping Tents & Shelters", "product_class_fixed": "Camping Tents"}
+{"product_class": "Ergonomic Accessories", "product_class_fixed": "Ergonomic Accessories"}
+{"product_class": "Door Stops", "product_class_fixed": "Door Stops"}
+{"product_class": "Garlands & Swag", "product_class_fixed": "Garlands"}
+{"product_class": "Patio Rockers & Gliders|Adirondack Chairs", "product_class_fixed": "Adirondack Chairs"}
+{"product_class": "Hardwood Flooring", "product_class_fixed": "Hardwood Flooring"}
+{"product_class": "Wallpaper|Wall Paneling", "product_class_fixed": "Wallpaper"}
+{"product_class": "TV Mounts|Computer Mounts", "product_class_fixed": "TV Mounts"}
+{"product_class": "Espresso Machines|Coffee Makers", "product_class_fixed": "Espresso Machines"}
+{"product_class": "Teen Desks", "product_class_fixed": "Teen Desks"}
+{"product_class": "Slatwall & Pegboard Accessories", "product_class_fixed": "Slatwall & Pegboard Accessories"}
+{"product_class": "Disposable Party Supplies", "product_class_fixed": "Disposable Party Supplies"}
+{"product_class": "Hostess Stands|Lecterns & Podiums", "product_class_fixed": "Hostess Stands"}
+{"product_class": "Novelty Lighting", "product_class_fixed": "Novelty Lighting"}
+{"product_class": "Licensed Products|Kids Beds", "product_class_fixed": "Kids Beds"}
+{"product_class": "Toy Boxes and Organizers", "product_class_fixed": "Toy Boxes"}
+{"product_class": "Vanity Bases|Bathroom Storage", "product_class_fixed": "Vanity Bases"}
+{"product_class": "Shade Accessories", "product_class_fixed": "Shade Accessories"}
+{"product_class": "Outdoor Deck Tiles", "product_class_fixed": "Outdoor Deck Tiles"}
+{"product_class": "Sauna Accessories", "product_class_fixed": "Sauna Accessories"}
+{"product_class": "Open Stock Knives and Kitchen Scissors", "product_class_fixed": "Open Stock Knives"}
+{"product_class": "Restaurant Tables|Dining Tables", "product_class_fixed": "Restaurant Tables"}
+{"product_class": "Stained Glass Panels", "product_class_fixed": "Stained Glass Panels"}
+{"product_class": "Licensed Products|Life Size Cutouts", "product_class_fixed": "Life Size Cutouts"}
+{"product_class": "Institutional Furniture Parts & Accessories", "product_class_fixed": "Institutional Furniture Parts"}
+{"product_class": "Bath Exhaust Fans", "product_class_fixed": "Bath Exhaust Fans"}
+{"product_class": "Napkin Rings, Place Card Holders & Food Markers", "product_class_fixed": "Napkin Rings"}
+{"product_class": "Soft Seating|Kids Chairs", "product_class_fixed": "Soft Seating"}
+{"product_class": "Hall Trees", "product_class_fixed": "Hall Trees"}
+{"product_class": "Wall Stickers|Licensed Products", "product_class_fixed": "Wall Stickers"}
+{"product_class": "Decorative Boxes", "product_class_fixed": "Decorative Boxes"}
+{"product_class": "Licensed Products|Kids Chairs", "product_class_fixed": "Kids Chairs"}
+{"product_class": "Computer Mounts|TV Mounts", "product_class_fixed": "Computer Mounts"}
+{"product_class": "Trunks", "product_class_fixed": "Trunks"}
+{"product_class": "Post Lanterns", "product_class_fixed": "Post Lanterns"}
+{"product_class": "Porch Swings|Hammocks", "product_class_fixed": "Porch Swings"}
+{"product_class": "Tile Trims", "product_class_fixed": "Tile Trims"}
+{"product_class": "Birdhouses", "product_class_fixed": "Birdhouses"}
+{"product_class": "Foam and Latex Mattresses|Adjustable Beds", "product_class_fixed": "Mattresses"}
+{"product_class": "Patio Ottomans", "product_class_fixed": "Patio Ottomans"}
+{"product_class": "Water Filtration", "product_class_fixed": "Water Filtration"}
+{"product_class": "Picture & Memory Albums", "product_class_fixed": "Picture & Memory Albums"}
+{"product_class": "Beer Pong", "product_class_fixed": "Beer Pong"}
+{"product_class": "Desk Parts", "product_class_fixed": "Desk Parts"}
+{"product_class": "Cabinet and Drawer Accessories", "product_class_fixed": "Cabinet and Drawer Accessories"}
+{"product_class": "Wedding", "product_class_fixed": "Wedding"}
+{"product_class": "Therapeutic Cushions", "product_class_fixed": "Therapeutic Cushions"}
+{"product_class": "Poker & Casino Tables|Folding Tables", "product_class_fixed": "Poker Tables"}
+{"product_class": "Grilling & Heating Fuels", "product_class_fixed": "Grilling & Heating Fuels"}
+{"product_class": "Makeup Vanities|Desks", "product_class_fixed": "Makeup Vanities"}
+{"product_class": "Wall Art|Wall D\u00e9cor", "product_class_fixed": "Wall Art"}
+{"product_class": "Ceiling Tiles", "product_class_fixed": "Ceiling Tiles"}
+{"product_class": "Cookware Sets", "product_class_fixed": "Cookware"}
+{"product_class": "Slicers, Peelers And Graters", "product_class_fixed": "Slicers"}
+{"product_class": "Knife Sets", "product_class_fixed": "Knife Sets"}
+{"product_class": "Outdoor Wall Lights|Outdoor Flush Mounts", "product_class_fixed": "Outdoor Wall Lights"}
+{"product_class": "Cable Management", "product_class_fixed": "Cable Management"}
+{"product_class": "Hammocks", "product_class_fixed": "Hammocks"}
+{"product_class": "String Lights|Holiday Lighting", "product_class_fixed": "String Lights"}
+{"product_class": "Swing Sets & Playgrounds", "product_class_fixed": "Swing Sets"}
+{"product_class": "Wall Sconces|Vanity Lighting", "product_class_fixed": "Wall Sconces"}
+{"product_class": "Mobiles", "product_class_fixed": "Mobiles"}
+{"product_class": "Futon Frames", "product_class_fixed": "Futon Frames"}
+{"product_class": "Wall Stickers|Kids Wall D\u00e9cor", "product_class_fixed": "Wall Stickers"}
+{"product_class": "Teens Headboards|Kids Headboards", "product_class_fixed": "Kids Headboards"}
+{"product_class": "Baby Blankets", "product_class_fixed": "Baby Blankets"}
+{"product_class": "Gliders", "product_class_fixed": "Gliders"}
+{"product_class": "Saute Pans", "product_class_fixed": "Saute Pans"}
+{"product_class": "Dartboards And Cabinets", "product_class_fixed": "Dartboards"}
+{"product_class": "Nightstands|Accent Chests / Cabinets", "product_class_fixed": "Nightstands"}
+{"product_class": "Cake Pans", "product_class_fixed": "Cake Pans"}
+{"product_class": "Home Theater Seating|Recliners", "product_class_fixed": "Home Theater"}
+{"product_class": "Patio Dining Chairs|Dining Chairs", "product_class_fixed": "Dining Chairs"}
+{"product_class": "Teapots & Teapot Sets", "product_class_fixed": "Teapots"}
+{"product_class": "Multimedia Storage", "product_class_fixed": "Multimedia Storage"}
+{"product_class": "Projectors", "product_class_fixed": "Projectors"}
+{"product_class": "Measuring Cups, Spoons, Scoops & Funnels", "product_class_fixed": "Measuring Cups"}
+{"product_class": "Electric & Alternative Fuel Fireplaces", "product_class_fixed": "Electric & Alternative Fuel Fireplaces"}
+{"product_class": "Licensed Products|Picture Frames", "product_class_fixed": "Picture Frames"}
+{"product_class": "Rug Pads", "product_class_fixed": "Rug Pads"}
+{"product_class": "Carpet Tile", "product_class_fixed": "Carpet Tile"}
+{"product_class": "Licensed Products|Dining Tables", "product_class_fixed": "Dining Tables"}
+{"product_class": "Reception Benches|Ottomans", "product_class_fixed": "Reception Benches"}
+{"product_class": "Baking Sheets", "product_class_fixed": "Baking Sheets"}
+{"product_class": "Towel Bars, Racks, and Stands|Wall Mounted Shelves", "product_class_fixed": "Towel Bars"}
+{"product_class": "Reception Benches|Benches|Shoe Storage", "product_class_fixed": "Reception Benches"}
+{"product_class": "Multi Game Tables", "product_class_fixed": "Multi Game Tables"}
+{"product_class": "Workbenches", "product_class_fixed": "Workbenches"}
+{"product_class": "Commercial Playground Equipment", "product_class_fixed": "Commercial Playground Equipment"}
+{"product_class": "Bookcases|Bathroom Storage|Wall Mounted Shelves", "product_class_fixed": "Bookcases"}
+{"product_class": "Outdoor Flush Mounts|Outdoor Wall Lights", "product_class_fixed": "Outdoor Flush Mounts"}
+{"product_class": "Specialty Serving|Buffet Accessories", "product_class_fixed": "Specialty Serving"}
+{"product_class": "Cake, Cookie, & Pastry Decoration", "product_class_fixed": "Pastry Decoration"}
+{"product_class": "Patio Tables|End Tables", "product_class_fixed": "End Tables"}
+{"product_class": "Outdoor Wall Decor|Holiday Accents & Decor", "product_class_fixed": "Outdoor Wall Decor"}
+{"product_class": "Mattress Foundations", "product_class_fixed": "Mattress Foundations"}
+{"product_class": "Dining Table Sets|Patio Dining Sets", "product_class_fixed": "Dining Table Sets"}
+{"product_class": "Grill Pans & Griddles", "product_class_fixed": "Grill Pans"}
+{"product_class": "Benches|Hall Trees", "product_class_fixed": "Benches"}
+{"product_class": "Lawn and Beach Chairs", "product_class_fixed": "Lawn and Beach Chairs"}
+{"product_class": "Futons|Teen Lounge Furniture|Sofas", "product_class_fixed": "Futons"}
+{"product_class": "Outdoor Decorations", "product_class_fixed": "Outdoor Decorations"}
+{"product_class": "Landscaping Screens & Bridges", "product_class_fixed": "Landscaping Screens"}
+{"product_class": "Trellises", "product_class_fixed": "Trellises"}
+{"product_class": "Licensed Products|Bedding Sets", "product_class_fixed": "Bedding Sets"}
+{"product_class": "Spice Jars & Racks", "product_class_fixed": "Spice Jars"}
+{"product_class": "Teen Lounge Furniture|Sofas", "product_class_fixed": "Teen Lounge Furniture"}
+{"product_class": "Reception Desks", "product_class_fixed": "Reception Desks"}
+{"product_class": "Classroom Desks", "product_class_fixed": "Classroom Desks"}
+{"product_class": "Licensed Products|Water Bottles, Travel Mugs & Tumblers", "product_class_fixed": "Water Bottles"}
+{"product_class": "Conference Tables|Dining Tables", "product_class_fixed": "Conference Tables"}
+{"product_class": "Chess, Checkers, and Backgammon|Folding Tables", "product_class_fixed": "Chess"}
+{"product_class": "Water Bottles, Travel Mugs & Tumblers|Licensed Products", "product_class_fixed": "Water Bottles"}
+{"product_class": "Toddler Bedding", "product_class_fixed": "Toddler Bedding"}
+{"product_class": "Burners & Hot Plates", "product_class_fixed": "Burners"}
+{"product_class": "Turf Flooring", "product_class_fixed": "Turf Flooring"}
+{"product_class": "Stair Treads", "product_class_fixed": "Stair Treads"}
+{"product_class": "Boxes, Bins, Baskets, & Buckets|Shoe Storage", "product_class_fixed": "Storage Boxes"}
+{"product_class": "Futon Mattresses", "product_class_fixed": "Futon Mattresses"}
+{"product_class": "Coffee & Espresso Accessories", "product_class_fixed": "Coffee & Espresso Accessories"}
+{"product_class": "Science Tables", "product_class_fixed": "Science Tables"}
+{"product_class": "Wine and Champagne Glasses|Glassware & Barware", "product_class_fixed": "Wine and Champagne Glasses"}
+{"product_class": "Kids Desks|Desks", "product_class_fixed": "Desks"}
+{"product_class": "Closet Organizer Accessories|Shoe Storage", "product_class_fixed": "Closet Organizer Accessories"}
+{"product_class": "Mantels", "product_class_fixed": "Mantels"}
+{"product_class": "Accent Chairs|Dining Chairs|Office Chairs", "product_class_fixed": "Accent Chairs"}
+{"product_class": "Creamers & Sugar Bowls", "product_class_fixed": "Creamers"}
+{"product_class": "Wall Paneling|Wallpaper", "product_class_fixed": "Wall Paneling"}
+{"product_class": "Memo Boards|Teen Wall D\u00e9cor", "product_class_fixed": "Memo Boards"}
+{"product_class": "Chicken Coop Accessories", "product_class_fixed": "Chicken Coop Accessories"}
+{"product_class": "Kids Armoires", "product_class_fixed": "Kids Armoires"}
+{"product_class": "Safety Gates", "product_class_fixed": "Safety Gates"}
+{"product_class": "Shower Panels", "product_class_fixed": "Shower Panels"}
+{"product_class": "Licensed Products|Area Rugs", "product_class_fixed": "Area Rugs"}
+{"product_class": "Bird Baths|Fountains", "product_class_fixed": "Bird Baths"}
+{"product_class": "Restaurant Tables|Patio Tables", "product_class_fixed": "Restaurant Tables"}
+{"product_class": "Table Top Games & Accessories", "product_class_fixed": "Table Top Games"}
+{"product_class": "Lighting Replacement Glass", "product_class_fixed": "Lighting Replacement Glass"}
+{"product_class": "Buffet Accessories|Specialty Serving", "product_class_fixed": "Buffet Accessories"}
+{"product_class": "Hammocks|Porch Swings", "product_class_fixed": "Hammocks"}
+{"product_class": "Ice Buckets, Beverage Tubs & Chillers", "product_class_fixed": "Ice Buckets"}
+{"product_class": "Patio Dining Sets|Outdoor Conversation Sets", "product_class_fixed": "Conversation Sets"}
+{"product_class": "Outdoor Sinks & Bar Centers", "product_class_fixed": "Outdoor Sinks"}
+{"product_class": "Deck Boxes|Sheds", "product_class_fixed": "Deck Boxes"}
+{"product_class": "Crib Conversion Rails", "product_class_fixed": "Crib Conversion Rails"}
+{"product_class": "Coffee Pods & K-Cups", "product_class_fixed": "Coffee Pods"}
+{"product_class": "Blinds and Shades", "product_class_fixed": "Blinds"}
+{"product_class": "Basketball Games", "product_class_fixed": "Basketball Games"}
+{"product_class": "Toilet Brushes & Plungers", "product_class_fixed": "Toilet Brushes"}
+{"product_class": "Outdoor Decorations|Garden Statues", "product_class_fixed": "Outdoor Decorations"}
+{"product_class": "Patio Umbrella Accessories", "product_class_fixed": "Patio Umbrella Accessories"}
+{"product_class": "Stage Accessories", "product_class_fixed": "Stage Accessories"}
+{"product_class": "Bath Rugs & Mats|Shower Curtains", "product_class_fixed": "Bath Rugs"}
+{"product_class": "Licensed Products|Crib Bedding Sets", "product_class_fixed": "Crib Bedding Sets"}
+{"product_class": "Medicine Cabinets", "product_class_fixed": "Medicine Cabinets"}
+{"product_class": "Dog Blankets", "product_class_fixed": "Dog Blankets"}
+{"product_class": "Nursery Furniture Sets", "product_class_fixed": "Nursery Furniture Sets"}
+{"product_class": "Air Mattresses", "product_class_fixed": "Air Mattresses"}
+{"product_class": "Door Bells & Chimes", "product_class_fixed": "Door Bells"}
+{"product_class": "Chess, Checkers, and Backgammon", "product_class_fixed": "Chess"}
+{"product_class": "Crib Sheets", "product_class_fixed": "Crib Sheets"}
+{"product_class": "Ramps", "product_class_fixed": "Ramps"}
+{"product_class": "Teen Bookcases", "product_class_fixed": "Teen Bookcases"}
+{"product_class": "Teen Wall Art|Wall Art", "product_class_fixed": "Wall Art"}
+{"product_class": "Daybeds & Guest Beds|Teen Beds", "product_class_fixed": "Daybeds"}
+{"product_class": "Gliders|Rocking Chairs", "product_class_fixed": "Gliders"}
+{"product_class": "Muffin & Cupcake Pans", "product_class_fixed": "Muffin & Cupcake Pans"}
+{"product_class": "Wine Refrigerators", "product_class_fixed": "Wine Refrigerators"}
+{"product_class": "Ranges", "product_class_fixed": "Ranges"}
+{"product_class": "Mixers & Mixer Accessories", "product_class_fixed": "Mixers"}
+{"product_class": "Tool Holders", "product_class_fixed": "Tool Holders"}
+{"product_class": "Licensed Products|Coolers", "product_class_fixed": "Coolers"}
+{"product_class": "Patio Dining Sets|Patio Tables", "product_class_fixed": "Patio Dining Sets"}
+{"product_class": "Adjustable Beds|Foam and Latex Mattresses", "product_class_fixed": "Adjustable Beds"}
+{"product_class": "Deadbolts", "product_class_fixed": "Deadbolts"}
+{"product_class": "Deck Boxes|Patio Benches", "product_class_fixed": "Deck Boxes"}
+{"product_class": "Drawer Organizers", "product_class_fixed": "Drawer Organizers"}
+{"product_class": "Restaurant Tables|Conference Tables|Breakroom Tables|Dining Tables", "product_class_fixed": "Restaurant Tables"}
+{"product_class": "Reception Sets", "product_class_fixed": "Reception Sets"}
+{"product_class": "Teen Desk Chairs|Dining Chairs|Office Chairs", "product_class_fixed": "Office Chairs"}
+{"product_class": "Floor Lamps|Table Lamps", "product_class_fixed": "Floor Lamps"}
+{"product_class": "Teen Lounge Furniture|Futons|Sofas", "product_class_fixed": "Sofas"}
+{"product_class": "Breakroom Tables|Dining Tables", "product_class_fixed": "Breakroom Tables"}
+{"product_class": "Headboards|Kids Headboards", "product_class_fixed": "Headboards"}
+{"product_class": "Portable Electronic Mounts", "product_class_fixed": "Portable Electronic Mounts"}
+{"product_class": "Indoor Gardening", "product_class_fixed": "Indoor Gardening"}
+{"product_class": "Holiday Lighting|String Lights", "product_class_fixed": "Holiday Lighting"}
+{"product_class": "Deck Boxes|Benches", "product_class_fixed": "Deck Boxes"}
+{"product_class": "Garden Accents|Holiday Accents & Decor", "product_class_fixed": "Garden Accents"}
+{"product_class": "Teacher Resources", "product_class_fixed": "Teacher Resources"}
+{"product_class": "Patio Umbrellas", "product_class_fixed": "Patio Umbrellas"}
+{"product_class": "Sandboxes & Sand Toys", "product_class_fixed": "Sandboxes"}
+{"product_class": "TV Mounts", "product_class_fixed": "TV Mounts"}
+{"product_class": "Licensed Products|Outdoor Decorations", "product_class_fixed": "Outdoor Decorations"}
+{"product_class": "Holiday Decor Storage", "product_class_fixed": "Holiday Decor Storage"}
+{"product_class": "Picnic Baskets & Coolers|Licensed Products", "product_class_fixed": "Picnic Baskets"}
+{"product_class": "Licensed Products|Picnic Baskets & Coolers", "product_class_fixed": "Picnic Baskets"}
+{"product_class": "Restaurant Table Tops", "product_class_fixed": "Restaurant Table Tops"}
+{"product_class": "Patio Chaise Lounges|Patio Sofas", "product_class_fixed": "Patio Chaise Lounges"}
+{"product_class": "Office Sets", "product_class_fixed": "Office Sets"}
+{"product_class": "Ice Buckets, Beverage Tubs & Chillers|Licensed Products", "product_class_fixed": "Ice Buckets"}
+{"product_class": "Teen Lounge Furniture|Sectionals", "product_class_fixed": "Sectionals"}
+{"product_class": "Hammock Stands and Accessories", "product_class_fixed": "Hammock Stands"}
+{"product_class": "Pasta Makers & Accessories|Mixers & Mixer Accessories", "product_class_fixed": "Pasta Makers"}
+{"product_class": "Folding Tables|Poker & Casino Tables", "product_class_fixed": "Folding Tables"}
+{"product_class": "Flatware & Silverware Sets|Flatware & Silverware Serving Pieces", "product_class_fixed": "Flatware"}
+{"product_class": "Restaurant Tables|Conference Tables|Dining Tables", "product_class_fixed": "Restaurant Tables"}
+{"product_class": "Computer & Training Tables|Desks", "product_class_fixed": "Computer & Training Tables"}
+{"product_class": "Decorative Torches", "product_class_fixed": "Decorative Torches"}
+{"product_class": "Kids Chairs|Licensed Products", "product_class_fixed": "Kids Chairs"}
+{"product_class": "Vacuums & Steamers", "product_class_fixed": "Vacuums"}
+{"product_class": "Licensed Products|Wall Stickers", "product_class_fixed": "Wall Stickers"}
+{"product_class": "Teen Wall D\u00e9cor|Wall D\u00e9cor", "product_class_fixed": "Wall Decor"}
+{"product_class": "Climbing Toys & Slides|Swing Sets & Playgrounds", "product_class_fixed": "Climbing Toys"}
+{"product_class": "Licensed Products|Accent Pillows", "product_class_fixed": "Accent Pillows"}
+{"product_class": "Hall Trees|Benches", "product_class_fixed": "Hall Trees"}
+{"product_class": "Slatwalls & Pegboards", "product_class_fixed": "Slatwalls"}
+{"product_class": "Crates and Carriers", "product_class_fixed": "Crates"}
+{"product_class": "Crib Bedding Sets|Licensed Products", "product_class_fixed": "Crib Bedding Sets"}
+{"product_class": "Shower Curtains|Bath Rugs & Mats", "product_class_fixed": "Shower Curtains"}
+{"product_class": "Commercial Plumbing Parts & Accessories", "product_class_fixed": "Commercial Plumbing Parts"}
+{"product_class": "Crib Mattresses", "product_class_fixed": "Crib Mattresses"}
+{"product_class": "Holiday Accents & Decor|Garden Accents", "product_class_fixed": "Holiday Accents"}
+{"product_class": "Audio Towers", "product_class_fixed": "Audio Towers"}
+{"product_class": "Partition & Panel Hardware Accessories", "product_class_fixed": "Partition & Panel Hardware"}
+{"product_class": "Teen Desk Chairs", "product_class_fixed": "Teen Desk Chairs"}
+{"product_class": "Mailroom Tables", "product_class_fixed": "Mailroom Tables"}
+{"product_class": "Glassware & Barware|Wine and Champagne Glasses", "product_class_fixed": "Glassware"}
+{"product_class": "Breakroom Tables|Restaurant Tables|Dining Tables", "product_class_fixed": "Breakroom Tables"}
+{"product_class": "Closet Storage & Organization|Shelving & Racks", "product_class_fixed": "Closet Storage & Organization"}
+{"product_class": "Teen Nightstands|End Tables", "product_class_fixed": "End Tables"}
+{"product_class": "Teen Wall D\u00e9cor|Memo Boards", "product_class_fixed": "Memo Boards"}
+{"product_class": "Air Fryers|Slow Cookers", "product_class_fixed": "Air Fryers"}
+{"product_class": "Restaurant Table Bases", "product_class_fixed": "Restaurant Table Bases"}
+{"product_class": "Shower and Bathtub Enclosures", "product_class_fixed": "Shower and Bathtub Enclosures"}
+{"product_class": "Dollhouses", "product_class_fixed": "Dollhouses"}
+{"product_class": "Desks|Dining Tables", "product_class_fixed": "Desks"}
+{"product_class": "Aquariums & Bowls", "product_class_fixed": "Aquariums"}
+{"product_class": "Specialty Filing & Filing Accessories", "product_class_fixed": "Specialty Filing"}
+{"product_class": "Dutch Ovens & Braisers", "product_class_fixed": "Dutch Ovens"}
+{"product_class": "Dressers & Chests|Accent Chests / Cabinets", "product_class_fixed": "Dressers"}
+{"product_class": "Play Kitchen Sets", "product_class_fixed": "Play Kitchen Sets"}
+{"product_class": "Cupolas & Weathervanes", "product_class_fixed": "Cupolas"}
+{"product_class": "Coffee Grinders", "product_class_fixed": "Coffee Grinders"}
+{"product_class": "Fitness & Recreational Flooring", "product_class_fixed": "Fitness & Recreational Flooring"}
+{"product_class": "Teen Wall D\u00e9cor|Wall Mounted Shelves", "product_class_fixed": "Wall Shelves"}
+{"product_class": "Licensed Products|Beds|Kids Beds", "product_class_fixed": "Kids Beds"}
+{"product_class": "Grab Bars", "product_class_fixed": "Grab Bars"}
+{"product_class": "Key Organizers", "product_class_fixed": "Key Organizers"}
+{"product_class": "Folding Tables|Desks", "product_class_fixed": "Folding Tables"}
+{"product_class": "Commercial Ceiling Lighting|Flush Mount Lighting", "product_class_fixed": "Commercial Ceiling Lighting"}
+{"product_class": "Licensed Products|Bed Accessories", "product_class_fixed": "Bed Accessories"}
+{"product_class": "Kids Bookcases|Bookcases", "product_class_fixed": "Bookcases"}
+{"product_class": "Table Tennis Tables", "product_class_fixed": "Table Tennis Tables"}
+{"product_class": "Patio Tables|Restaurant Tables", "product_class_fixed": "Restaurant Tables"}
+{"product_class": "Kids Headboards|Teens Headboards", "product_class_fixed": "Kids Headboards"}
+{"product_class": "Fireplace Screens & Doors", "product_class_fixed": "Fireplace Screens"}
+{"product_class": "Teen Dressers|Kids Dressers & Chests", "product_class_fixed": "Kids Dressers"}
+{"product_class": "Bassinets & Cradles", "product_class_fixed": "Bassinets"}
+{"product_class": "Crib Bedding Accessories", "product_class_fixed": "Crib Bedding Accessories"}
+{"product_class": "Serving Dishes & Platters|Licensed Products", "product_class_fixed": "Serving Dishes"}
+{"product_class": "Bean Bags|Teen Lounge Furniture", "product_class_fixed": "Bean Bags"}
+{"product_class": "Compact & Mini Fridges", "product_class_fixed": "Compact & Mini Fridges"}
+{"product_class": "Bidet Faucets", "product_class_fixed": "Bidet Faucets"}
+{"product_class": "Licensed Products|Projector Screens", "product_class_fixed": "Projector Screens"}
+{"product_class": "Electric Grills & Skillets", "product_class_fixed": "Electric Grills"}
+{"product_class": "Kids Chairs|Teen Lounge Furniture", "product_class_fixed": "Kids Chairs"}
+{"product_class": "Reception Benches|Benches|Ottomans|Shoe Storage", "product_class_fixed": "Reception Benches"}
+{"product_class": "Tailgating Wagons", "product_class_fixed": "Tailgating Wagons"}
+{"product_class": "Folding Chairs", "product_class_fixed": "Folding Chairs"}
+{"product_class": "Licensed Products|Wall Clocks", "product_class_fixed": "Wall Clocks"}
+{"product_class": "Licensed Products|Toy Boxes and Organizers", "product_class_fixed": "Toy Boxes"}
+{"product_class": "Teen Novelty Lighting|Novelty Lighting|Commercial Accent Lighting", "product_class_fixed": "Novelty Lighting"}
+{"product_class": "Benches|Patio Benches", "product_class_fixed": "Benches"}
+{"product_class": "Space Heaters", "product_class_fixed": "Space Heaters"}
+{"product_class": "Dining Bowls|Licensed Products", "product_class_fixed": "Dining Bowls"}
+{"product_class": "Accent Pillows|Sheets And Sheet Sets", "product_class_fixed": "Accent Pillows"}
+{"product_class": "Dinnerware Sets & Place Settings|Licensed Products", "product_class_fixed": "Dinnerware"}
+{"product_class": "Pavers & Cobblestones", "product_class_fixed": "Pavers"}
+{"product_class": "Steam", "product_class_fixed": "Steam"}
+{"product_class": "Comforters & Duvet Fills", "product_class_fixed": "Comforters"}
+{"product_class": "Patio Rockers & Gliders|Adirondack Chairs|Outdoor Conversation Sets", "product_class_fixed": "Patio Rockers"}
+{"product_class": "TV Stand Accessories", "product_class_fixed": "TV Stand Accessories"}
+{"product_class": "Gas Fireplaces", "product_class_fixed": "Gas Fireplaces"}
+{"product_class": "Holiday Accents & Decor|Garden Statues", "product_class_fixed": "Holiday Accents"}
+{"product_class": "Commercial Desks", "product_class_fixed": "Commercial Desks"}
+{"product_class": "Teen Desk Chairs|Accent Chairs|Office Chairs", "product_class_fixed": "Office Chairs"}
+{"product_class": "Portable Fans", "product_class_fixed": "Portable Fans"}
+{"product_class": "Licensed Products|Bars & Bar Sets", "product_class_fixed": "Bar Sets"}
+{"product_class": "Recessed Lighting Kits", "product_class_fixed": "Recessed Lighting Kits"}
+{"product_class": "Patio Lounge Chairs|Patio Rockers & Gliders", "product_class_fixed": "Patio Rockers"}
+{"product_class": "Mugs & Teacups|Licensed Products", "product_class_fixed": "Mugs"}
+{"product_class": "Microfridge Combo Units", "product_class_fixed": "Microfridge Combo Units"}
+{"product_class": "Commercial Floor Care", "product_class_fixed": "Commercial Floor Care"}
+{"product_class": "Teen Desks|Makeup Vanities", "product_class_fixed": "Makeup Vanities"}
+{"product_class": "Pet Grooming Furniture", "product_class_fixed": "Pet Grooming Furniture"}
+{"product_class": "Door Levers|Smart & Electronic Door Locks", "product_class_fixed": "Door Levers"}
+{"product_class": "Cash Handling", "product_class_fixed": "Cash Handling"}
+{"product_class": "Hooks", "product_class_fixed": "Hooks"}
+{"product_class": "Licensed Products|Accent Chairs", "product_class_fixed": "Accent Chairs"}
+{"product_class": "Licensed Products|Folding Tables", "product_class_fixed": "Folding Tables"}
+{"product_class": "Breakroom Tables|Dining Table Sets", "product_class_fixed": "Breakroom Tables"}
+{"product_class": "Rice Cookers and Food Steamers", "product_class_fixed": "Rice Cookers"}
+{"product_class": "Licensed Products|Salt And Pepper Shakers / Grinders (Mills)", "product_class_fixed": "Salt and Pepper"}
+{"product_class": "Stationery & Coffee Table Books", "product_class_fixed": "Stationery & Coffee Table Books"}
+{"product_class": "Teen Beds", "product_class_fixed": "Teen Beds"}
+{"product_class": "Track Lighting Tracks, Rails & Connectors", "product_class_fixed": "Track Lighting"}
+{"product_class": "Patio Tables|End Tables|Nightstands", "product_class_fixed": "Patio Tables"}
+{"product_class": "Nightstands|Dressers & Chests", "product_class_fixed": "Nightstands"}
+{"product_class": "Bidets", "product_class_fixed": "Bidets"}
+{"product_class": "Sheds|Deck Boxes", "product_class_fixed": "Sheds"}
+{"product_class": "Massage Therapy Products|Massage Chairs", "product_class_fixed": "Massage Therapy Products"}
+{"product_class": "Globes", "product_class_fixed": "Globes"}
+{"product_class": "Armoires & Wardrobes|Garage Storage Cabinets", "product_class_fixed": "Armoires"}
+{"product_class": "Wall Sconces|Outdoor Wall Lights", "product_class_fixed": "Wall Sconces"}
+{"product_class": "Stackable Chairs|Dining Chairs|Office Chairs", "product_class_fixed": "Stackable Chairs"}
+{"product_class": "Water Filter Pitchers", "product_class_fixed": "Water Filter Pitchers"}
+{"product_class": "Pub/Bar Tables & Sets|Dining Tables", "product_class_fixed": "Pub/Bar Tables"}
+{"product_class": "Outdoor Decorations|Outdoor Wall Decor|Wall D\u00e9cor", "product_class_fixed": "Outdoor Decorations"}
+{"product_class": "Potting Benches & Tables", "product_class_fixed": "Potting Benches"}
+{"product_class": "Patio Tables|Dining Tables", "product_class_fixed": "Patio Tables"}
+{"product_class": "Office Storage Cabinets|Accent Chests / Cabinets", "product_class_fixed": "Office Storage Cabinets"}
+{"product_class": "Cat Cages & Playpens", "product_class_fixed": "Cat Cages"}
+{"product_class": "Laundry Accessories", "product_class_fixed": "Laundry Accessories"}
+{"product_class": "Home Theater Seating", "product_class_fixed": "Home Theater Seating"}
+{"product_class": "Bar Equipment & Accessories", "product_class_fixed": "Bar Equipment"}
+{"product_class": "Drying Racks", "product_class_fixed": "Drying Racks"}
+{"product_class": "Cabinet and Drawer Backplates", "product_class_fixed": "Cabinet and Drawer Backplates"}
+{"product_class": "Cart Accessories & Parts", "product_class_fixed": "Cart Accessories"}
+{"product_class": "Commercial Work Tables", "product_class_fixed": "Commercial Work Tables"}
+{"product_class": "Door Hinges", "product_class_fixed": "Door Hinges"}
+{"product_class": "Rain Barrels", "product_class_fixed": "Rain Barrels"}
+{"product_class": "Stovetop & Electric Tea Kettles", "product_class_fixed": "Stovetop & Electric Tea Kettles"}
+{"product_class": "Hot / Cold Tea Accessories", "product_class_fixed": "Hot / Cold Tea Accessories"}
+{"product_class": "Eye Wash Stations", "product_class_fixed": "Eye Wash Stations"}
+{"product_class": "Nap Mats & Baby Playmats", "product_class_fixed": "Nap Mats"}
+{"product_class": "Licensed Products|End Tables", "product_class_fixed": "End Tables"}
+{"product_class": "Licensed Products|Mugs & Teacups", "product_class_fixed": "Mugs"}
+{"product_class": "Standard Bed Pillows|Licensed Products", "product_class_fixed": "Standard Bed Pillows"}
+{"product_class": "Office Partitions", "product_class_fixed": "Office Partitions"}
+{"product_class": "Wine Bottle Carriers", "product_class_fixed": "Wine Bottle Carriers"}
+{"product_class": "Benches|Ottomans|Shoe Storage", "product_class_fixed": "Benches"}
+{"product_class": "Mixers & Mixer Accessories|Pasta Makers & Accessories", "product_class_fixed": "Mixers"}
+{"product_class": "Air Conditioners", "product_class_fixed": "Air Conditioners"}
+{"product_class": "Slides", "product_class_fixed": "Slides"}
+{"product_class": "Table Accessories", "product_class_fixed": "Table Accessories"}
+{"product_class": "Watering Cans", "product_class_fixed": "Watering Cans"}
+{"product_class": "Address Plaques & Lettering", "product_class_fixed": "Address Plaques"}
+{"product_class": "Teen Lounge Furniture|Futons", "product_class_fixed": "Futons"}
+{"product_class": "Shower Benches", "product_class_fixed": "Shower Benches"}
+{"product_class": "Licensed Products|Kids Desks", "product_class_fixed": "Kids Desks"}
+{"product_class": "Licensed Products|Kids Tables and Sets", "product_class_fixed": "Kids Tables"}
+{"product_class": "Display Cases", "product_class_fixed": "Display Cases"}
+{"product_class": "Flush Mount Lighting|Commercial Ceiling Lighting", "product_class_fixed": "Flush Mount Lighting"}
+{"product_class": "Screen Accessories", "product_class_fixed": "Screen Accessories"}
+{"product_class": "Licensed Products|Sheets And Sheet Sets", "product_class_fixed": "Sheet Sets"}
+{"product_class": "Teen Wall D\u00e9cor|Picture Frames", "product_class_fixed": "Picture Frames"}
+{"product_class": "Cat Condos & Cat Trees", "product_class_fixed": "Cat Condos"}
+{"product_class": "Bar Equipment & Accessories|Beverage Refrigerators & Coolers", "product_class_fixed": "Bar Equipment"}
+{"product_class": "Mixing Bowls", "product_class_fixed": "Mixing Bowls"}
+{"product_class": "Classroom Storage", "product_class_fixed": "Classroom Storage"}
+{"product_class": "Room Dividers", "product_class_fixed": "Room Dividers"}
+{"product_class": "Adirondack Chairs|Patio Rockers & Gliders|Outdoor Conversation Sets", "product_class_fixed": "Adirondack Chairs"}
+{"product_class": "Licensed Products|Garden Statues", "product_class_fixed": "Garden Statues"}
+{"product_class": "Patio Bar Stools|Licensed Products", "product_class_fixed": "Patio Bar Stools"}
+{"product_class": "Licensed Products|Floor & Wall Tile", "product_class_fixed": "Floor Tiles"}
+{"product_class": "Kids Chairs|Folding Chairs", "product_class_fixed": "Folding Chairs"}
+{"product_class": "Milk Frothers", "product_class_fixed": "Milk Frothers"}
+{"product_class": "Air Treatment Accessories", "product_class_fixed": "Air Treatment Accessories"}
+{"product_class": "Kitchen Gadgets", "product_class_fixed": "Kitchen Gadgets"}
+{"product_class": "Art Room Supplies", "product_class_fixed": "Art Room Supplies"}
+{"product_class": "Stanchions", "product_class_fixed": "Stanchions"}
+{"product_class": "Lids & Covers", "product_class_fixed": "Lids"}
+{"product_class": "Crates and Carriers|End Tables", "product_class_fixed": "Crates"}
+{"product_class": "Hot Tubs", "product_class_fixed": "Hot Tubs"}
+{"product_class": "Toilet Seat Decals", "product_class_fixed": "Toilet Seat Decals"}
+{"product_class": "Foosball Tables", "product_class_fixed": "Foosball Tables"}
+{"product_class": "Holiday Accents & Decor|Outdoor Wall Decor", "product_class_fixed": "Holiday Accents"}
+{"product_class": "Pizza Stones, Pans & Peels", "product_class_fixed": "Pizza Stones"}
+{"product_class": "Reception Benches|Benches|Ottomans", "product_class_fixed": "Reception Benches"}
+{"product_class": "Woks", "product_class_fixed": "Woks"}
+{"product_class": "Bakeware Sets|Food Storage & Dispensers", "product_class_fixed": "Bakeware"}
+{"product_class": "Roasting Pans", "product_class_fixed": "Roasting Pans"}
+{"product_class": "Food Storage & Dispensers|Bakeware Sets", "product_class_fixed": "Food Storage"}
+{"product_class": "Licensed Products|Benches", "product_class_fixed": "Benches"}
+{"product_class": "Teen Beds|Daybeds & Guest Beds", "product_class_fixed": "Daybeds"}
+{"product_class": "Licensed Products|Armoires & Wardrobes", "product_class_fixed": "Armoires"}
+{"product_class": "Licensed Products|Night Lights", "product_class_fixed": "Night Lights"}
+{"product_class": "Flush Mount Lighting|Chandeliers", "product_class_fixed": "Flush Mount Lighting"}
+{"product_class": "Christmas Stockings & Holders", "product_class_fixed": "Christmas Stockings"}
+{"product_class": "Brooms and Sweepers", "product_class_fixed": "Brooms"}
+{"product_class": "Board Accessories", "product_class_fixed": "Board Accessories"}
+{"product_class": "Cribs", "product_class_fixed": "Cribs"}
+{"product_class": "Adirondack Chairs|Outdoor Conversation Sets", "product_class_fixed": "Adirondack Chairs"}
+{"product_class": "TV Mount Accessories", "product_class_fixed": "TV Mount Accessories"}
+{"product_class": "Ceiling Fan Light Kits", "product_class_fixed": "Ceiling Fan Light Kits"}
+{"product_class": "Tool Cabinets", "product_class_fixed": "Tool Cabinets"}
+{"product_class": "Luggage Racks", "product_class_fixed": "Luggage Racks"}
+{"product_class": "Floor Installation Accessories", "product_class_fixed": "Floor Installation Accessories"}
+{"product_class": "Craft & Sewing Tables", "product_class_fixed": "Craft & Sewing Tables"}
+{"product_class": "Night Lights|Licensed Products", "product_class_fixed": "Night Lights"}
+{"product_class": "Grilling Tools & Accessories", "product_class_fixed": "Grilling Tools"}
+{"product_class": "Kitchen Gadgets|Can Openers", "product_class_fixed": "Kitchen Gadgets"}
+{"product_class": "Av Component Shelving", "product_class_fixed": "Av Component"}
+{"product_class": "Teen Wall D\u00e9cor|Bookcases|Wall Mounted Shelves", "product_class_fixed": "Wall Shelves"}
+{"product_class": "Kids Nightstands", "product_class_fixed": "Kids Nightstands"}
+{"product_class": "Espresso Machines", "product_class_fixed": "Espresso Machines"}
+{"product_class": "Storage Drawers|Office Storage Cabinets", "product_class_fixed": "Storage Drawers"}
+{"product_class": "Area Rugs|Kitchen Mats", "product_class_fixed": "Area Rugs"}
+{"product_class": "Stackable Chairs|Reception Seating Chairs|Dining Chairs", "product_class_fixed": "Stackable Chairs"}
+{"product_class": "Reception Seating Chairs|Stackable Chairs|Dining Chairs", "product_class_fixed": "Reception Seating Chairs"}
+{"product_class": "Folding Tables|Chess, Checkers, and Backgammon", "product_class_fixed": "Folding Tables"}
+{"product_class": "Drains", "product_class_fixed": "Drainsown"}
+{"product_class": "Holiday Lighting|Licensed Products", "product_class_fixed": "Holiday Lighting"}
+{"product_class": "Kids Bookcases|Toy Boxes and Organizers", "product_class_fixed": "Toy Boxes"}
+{"product_class": "Licensed Products|Playhouses & Play Tents", "product_class_fixed": "Playhouses"}
+{"product_class": "Outdoor Kitchens", "product_class_fixed": "Outdoor Kitchens"}
+{"product_class": "Patio Benches|Benches|Shoe Storage", "product_class_fixed": "Patio Benches"}
+{"product_class": "Poultry & Meat Preparation Tools|Kitchen Gadgets", "product_class_fixed": "Poultry & Meat Preparation Tools"}
+{"product_class": "Cabinet and Drawer Knobs|Cabinet and Drawer Pulls", "product_class_fixed": "Cabinet and Drawer Knobs"}
+{"product_class": "Pet Crate & Carrier Accessories", "product_class_fixed": "Pet Crate & Carrier Accessories"}
+{"product_class": "Breakroom Tables|Conference Tables|Restaurant Tables|Dining Tables", "product_class_fixed": "Breakroom Tables"}
+{"product_class": "Dining Table Sets|Breakroom Tables", "product_class_fixed": "Dining Table Sets"}
+{"product_class": "Waiting Room Chairs|Sofas", "product_class_fixed": "Waiting Room Chairs"}
+{"product_class": "Smart & Electronic Door Locks|Door Levers", "product_class_fixed": "Smart & Electronic Door Locks"}
+{"product_class": "Le Creuset - Shop By Color|Specialty Serving", "product_class_fixed": "Le Creuset - Shop By Color"}
+{"product_class": "Porch Swings", "product_class_fixed": "Porch Swings"}
+{"product_class": "Licensed Products|Bath Towels", "product_class_fixed": "Bath Towels"}
+{"product_class": "Locker Accessories", "product_class_fixed": "Locker Accessories"}
+{"product_class": "Waiting Room Chairs|Office Chairs", "product_class_fixed": "Waiting Room Chairs"}
+{"product_class": "Changing Tables", "product_class_fixed": "Changing Tables"}
+{"product_class": "Changing Table Toppers", "product_class_fixed": "Changing Table Toppers"}
+{"product_class": "Craft & Sewing Tables|Desks", "product_class_fixed": "Craft & Sewing Tables"}
+{"product_class": "Sideboards & Buffets|Accent Chests / Cabinets|TV Stands & Entertainment Centers", "product_class_fixed": "Sideboards"}
+{"product_class": "Bounce Houses & Inflatable Slides", "product_class_fixed": "Bounce Houses"}
+{"product_class": "Dehumidifiers", "product_class_fixed": "Dehumidifiers"}
+{"product_class": "Computer & Training Tables|Office Sets|Desks", "product_class_fixed": "Computer & Training Tables"}
+{"product_class": "Climbing Toys & Slides|Soft Play", "product_class_fixed": "Climbing Toys & Slides"}
+{"product_class": "Soft Seating", "product_class_fixed": "Soft Seating"}
+{"product_class": "Teen Lounge Furniture|Bean Bags", "product_class_fixed": "Bean Bags"}
+{"product_class": "Patio Tables|Patio Dining Sets", "product_class_fixed": "Patio Tables"}
+{"product_class": "Serving Dishes & Platters|Cutting Boards", "product_class_fixed": "Serving Dishes"}
+{"product_class": "Rolling Pins|Kitchen Gadgets", "product_class_fixed": "Rolling Pins"}
+{"product_class": "TV Mounts|TV Stands & Entertainment Centers", "product_class_fixed": "TV Mounts"}
+{"product_class": "Teen Lounge Furniture", "product_class_fixed": "Teen Lounge Furniture"}
+{"product_class": "Jewelry Armoires|Closet Organizer Accessories", "product_class_fixed": "Jewelry Armoires"}
+{"product_class": "Licensed Products|Covers & Carry Bags", "product_class_fixed": "Covers"}
+{"product_class": "Cat Beds", "product_class_fixed": "Cat Beds"}
+{"product_class": "Christmas Tree Skirts & Collars", "product_class_fixed": "Christmas Tree Skirts"}
+{"product_class": "Air Fryers", "product_class_fixed": "Air Fryers"}
+{"product_class": "Maps & Atlases", "product_class_fixed": "Maps"}
+{"product_class": "Reception Seating Chairs|Accent Chairs|Dining Chairs", "product_class_fixed": "Reception Seating Chairs"}
+{"product_class": "Beverage Refrigerators & Coolers|Wine Refrigerators", "product_class_fixed": "Beverage Refrigerators"}
+{"product_class": "Outdoor Wall Decor|Outdoor Decorations", "product_class_fixed": "Outdoor Wall Decor"}
+{"product_class": "Benches|Reception Benches|Shoe Storage", "product_class_fixed": "Benches"}
+{"product_class": "Lockers", "product_class_fixed": "Lockers"}
+{"product_class": "Activity Tables", "product_class_fixed": "Activity Tables"}
+{"product_class": "Daybeds & Guest Beds|Kids Beds", "product_class_fixed": "Daybeds & Guest Beds"}
+{"product_class": "Bedroom Sets", "product_class_fixed": "Bedroom Sets"}
+{"product_class": "Pot Racks", "product_class_fixed": "Pot Racks"}
+{"product_class": "Ironing Boards, Covers & Pads", "product_class_fixed": "Ironing Boards"}
+{"product_class": "Wall Sconces|Commercial Wall Lighting", "product_class_fixed": "Wall Sconces"}
+{"product_class": "Licensed Products|Wall D\u00e9cor", "product_class_fixed": "Wall Decor"}
+{"product_class": "Air Purifiers", "product_class_fixed": "Air Purifiers"}
+{"product_class": "Towel Warmers", "product_class_fixed": "Towel Warmers"}

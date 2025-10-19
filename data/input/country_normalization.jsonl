@@ -1,0 +1,25 @@
+{"raw": "china", "normalized": "China"}
+{"raw": "made in china", "normalized": "China"}
+{"raw": "cn", "normalized": "China"}
+{"raw": "united states", "normalized": "USA"}
+{"raw": "made in usa", "normalized": "USA"}
+{"raw": "made in usa of imported materials", "normalized": "USA"}
+{"raw": "viet nam", "normalized": "Vietnam"}
+{"raw": "vietnam", "normalized": "Vietnam"}
+{"raw": "made in vietnam", "normalized": "Vietnam"}
+{"raw": "turkey", "normalized": "Turkey"}
+{"raw": "india", "normalized": "India"}
+{"raw": "malaysia", "normalized": "Malaysia"}
+{"raw": "made in malaysia", "normalized": "Malaysia"}
+{"raw": "indonesia", "normalized": "Indonesia"}
+{"raw": "taiwan", "normalized": "Taiwan"}
+{"raw": "canada", "normalized": "Canada"}
+{"raw": "thailand", "normalized": "Thailand"}
+{"raw": "mexico", "normalized": "Mexico"}
+{"raw": "spain", "normalized": "Spain"}
+{"raw": "brazil", "normalized": "Brazil"}
+{"raw": "italy", "normalized": "Italy"}
+{"raw": "made in canada", "normalized": "Canada"}
+{"raw": "philippines", "normalized": "Philippines"}
+{"raw": "poland", "normalized": "Poland"}
+{"raw": "egypt", "normalized": "Egypt"}

@@ -1,0 +1,602 @@
+{"product_class": "Area Rugs", "price_min": 80, "price_max": 400}
+{"product_class": "Accent Chairs", "price_min": 200, "price_max": 600}
+{"product_class": "Beds", "price_min": 300, "price_max": 1200}
+{"product_class": "Coffee Tables", "price_min": 150, "price_max": 500}
+{"product_class": "Floor Tiles", "price_min": 3, "price_max": 12}
+{"product_class": "Bar Stools", "price_min": 120, "price_max": 350}
+{"product_class": "Accent Pillows", "price_min": 25, "price_max": 80}
+{"product_class": "End Tables", "price_min": 100, "price_max": 300}
+{"product_class": "Desks", "price_min": 200, "price_max": 800}
+{"product_class": "Dining Tables", "price_min": 300, "price_max": 1000}
+{"product_class": "Wall Art", "price_min": 40, "price_max": 200}
+{"product_class": "Dining Chairs", "price_min": 80, "price_max": 300}
+{"product_class": "Bedding Sets", "price_min": 60, "price_max": 250}
+{"product_class": "Curtains", "price_min": 30, "price_max": 150}
+{"product_class": "Vanities", "price_min": 400, "price_max": 1200}
+{"product_class": "Sofa Tables", "price_min": 120, "price_max": 400}
+{"product_class": "Dressers", "price_min": 250, "price_max": 800}
+{"product_class": "Drawer Pulls", "price_min": 5, "price_max": 25}
+{"product_class": "Wall Decor", "price_min": 20, "price_max": 120}
+{"product_class": "Recliners", "price_min": 300, "price_max": 800}
+{"product_class": "Conversation Sets", "price_min": 800, "price_max": 2000}
+{"product_class": "Accent Mirrors", "price_min": 50, "price_max": 300}
+{"product_class": "TV Stands", "price_min": 150, "price_max": 600}
+{"product_class": "Office Chairs", "price_min": 100, "price_max": 400}
+{"product_class": "Chandeliers", "price_min": 150, "price_max": 800}
+{"product_class": "Sectionals", "price_min": 800, "price_max": 2500}
+{"product_class": "Kitchen Mats", "price_min": 15, "price_max": 60}
+{"product_class": "Decorative Objects", "price_min": 20, "price_max": 150}
+{"product_class": "Sofas", "price_min": 400, "price_max": 1500}
+{"product_class": "Bathroom Faucets", "price_min": 80, "price_max": 400}
+{"product_class": "Patio Sofas", "price_min": 300, "price_max": 1200}
+{"product_class": "Table Lamps", "price_min": 40, "price_max": 200}
+{"product_class": "Accent Cabinets", "price_min": 200, "price_max": 800}
+{"product_class": "Doormats", "price_min": 15, "price_max": 60}
+{"product_class": "Furniture Cushions", "price_min": 25, "price_max": 120}
+{"product_class": "Wall Clocks", "price_min": 30, "price_max": 150}
+{"product_class": "Nightstands", "price_min": 100, "price_max": 400}
+{"product_class": "Garden Statues", "price_min": 40, "price_max": 300}
+{"product_class": "Kitchen Islands", "price_min": 500, "price_max": 2000}
+{"product_class": "Planters", "price_min": 20, "price_max": 150}
+{"product_class": "Sheet Sets", "price_min": 30, "price_max": 120}
+{"product_class": "Dining Table Sets", "price_min": 500, "price_max": 2000}
+{"product_class": "Faux Florals", "price_min": 15, "price_max": 80}
+{"product_class": "Ottoman Benches", "price_min": 100, "price_max": 400}
+{"product_class": "Bathroom Storage", "price_min": 40, "price_max": 200}
+{"product_class": "Wall Shelves", "price_min": 30, "price_max": 150}
+{"product_class": "Fountains", "price_min": 80, "price_max": 500}
+{"product_class": "Bookcases", "price_min": 150, "price_max": 600}
+{"product_class": "Office Storage Cabinets", "price_min": 200, "price_max": 800}
+{"product_class": "Vanity Lights", "price_min": 60, "price_max": 300}
+{"product_class": "Canisters", "price_min": 15, "price_max": 80}
+{"product_class": "Bar Sets", "price_min": 200, "price_max": 800}
+{"product_class": "Shoe Storage", "price_min": 40, "price_max": 200}
+{"product_class": "Kids Chairs", "price_min": 50, "price_max": 200}
+{"product_class": "Kids Beds", "price_min": 150, "price_max": 600}
+{"product_class": "Light Bulbs", "price_min": 3, "price_max": 15}
+{"product_class": "Wall Plates", "price_min": 2, "price_max": 12}
+{"product_class": "Bath Accessories", "price_min": 10, "price_max": 60}
+{"product_class": "Lounge Chairs", "price_min": 200, "price_max": 800}
+{"product_class": "Chaise Lounges", "price_min": 300, "price_max": 1000}
+{"product_class": "Serving Platters", "price_min": 15, "price_max": 80}
+{"product_class": "Headboards", "price_min": 100, "price_max": 500}
+{"product_class": "Sideboards", "price_min": 300, "price_max": 1200}
+{"product_class": "Flush Mount Lights", "price_min": 40, "price_max": 200}
+{"product_class": "Patio Dining Sets", "price_min": 400, "price_max": 1500}
+{"product_class": "Drawer Knobs", "price_min": 3, "price_max": 20}
+{"product_class": "Daybeds", "price_min": 300, "price_max": 1000}
+{"product_class": "Shower Curtain Hooks", "price_min": 5, "price_max": 25}
+{"product_class": "Hampers", "price_min": 20, "price_max": 100}
+{"product_class": "Curtain Hardware", "price_min": 10, "price_max": 50}
+{"product_class": "Plant Tables", "price_min": 40, "price_max": 200}
+{"product_class": "Moldings", "price_min": 2, "price_max": 15}
+{"product_class": "Living Room Table Sets", "price_min": 300, "price_max": 1000}
+{"product_class": "Kitchen Sinks", "price_min": 150, "price_max": 600}
+{"product_class": "Shower Doors", "price_min": 200, "price_max": 800}
+{"product_class": "Slow Cookers", "price_min": 30, "price_max": 150}
+{"product_class": "Coat Racks", "price_min": 25, "price_max": 120}
+{"product_class": "Shower Faucets", "price_min": 80, "price_max": 400}
+{"product_class": "Projector Screens", "price_min": 100, "price_max": 400}
+{"product_class": "Towel Hooks", "price_min": 8, "price_max": 40}
+{"product_class": "Storage Boxes", "price_min": 15, "price_max": 80}
+{"product_class": "Wall Sconces", "price_min": 40, "price_max": 200}
+{"product_class": "Living Room Sets", "price_min": 1000, "price_max": 4000}
+{"product_class": "Fixture Parts", "price_min": 5, "price_max": 30}
+{"product_class": "Shower Curtains", "price_min": 15, "price_max": 60}
+{"product_class": "Toilet Paper Holders", "price_min": 10, "price_max": 50}
+{"product_class": "Crib Bedding Sets", "price_min": 40, "price_max": 150}
+{"product_class": "Outdoor Wall Lights", "price_min": 60, "price_max": 300}
+{"product_class": "Furniture Covers", "price_min": 20, "price_max": 100}
+{"product_class": "Shelving & Racks", "price_min": 30, "price_max": 200}
+{"product_class": "Plates", "price_min": 8, "price_max": 40}
+{"product_class": "Kitchen Faucets", "price_min": 100, "price_max": 500}
+{"product_class": "Carts", "price_min": 80, "price_max": 300}
+{"product_class": "Mattresses", "price_min": 200, "price_max": 1500}
+{"product_class": "Mattress Pads", "price_min": 30, "price_max": 120}
+{"product_class": "Faux Plants", "price_min": 15, "price_max": 80}
+{"product_class": "Deck Boxes", "price_min": 80, "price_max": 300}
+{"product_class": "Vanity Bases", "price_min": 300, "price_max": 1000}
+{"product_class": "Landscape Lighting", "price_min": 40, "price_max": 200}
+{"product_class": "Greenhouses", "price_min": 200, "price_max": 800}
+{"product_class": "Trash Cans", "price_min": 20, "price_max": 100}
+{"product_class": "Benches", "price_min": 80, "price_max": 400}
+{"product_class": "Garden Accents", "price_min": 20, "price_max": 150}
+{"product_class": "Patio Chaise Lounges", "price_min": 200, "price_max": 800}
+{"product_class": "Patio Rockers", "price_min": 150, "price_max": 500}
+{"product_class": "Bath Rugs", "price_min": 15, "price_max": 60}
+{"product_class": "Clothing Racks", "price_min": 40, "price_max": 200}
+{"product_class": "Food Storage", "price_min": 10, "price_max": 60}
+{"product_class": "Chairmats", "price_min": 20, "price_max": 80}
+{"product_class": "Range Hoods", "price_min": 200, "price_max": 800}
+{"product_class": "Sheds", "price_min": 300, "price_max": 1500}
+{"product_class": "Kids Wall D\u00e9cor", "price_min": 15, "price_max": 80}
+{"product_class": "Holiday Accents", "price_min": 10, "price_max": 60}
+{"product_class": "Bread Pans", "price_min": 8, "price_max": 40}
+{"product_class": "Bed Frames", "price_min": 100, "price_max": 500}
+{"product_class": "Under Cabinet Lighting", "price_min": 30, "price_max": 150}
+{"product_class": "Lighting Shades", "price_min": 15, "price_max": 80}
+{"product_class": "Candle Holders", "price_min": 10, "price_max": 60}
+{"product_class": "Folding Tables", "price_min": 80, "price_max": 300}
+{"product_class": "Ceiling Fans", "price_min": 100, "price_max": 400}
+{"product_class": "Shower Heads", "price_min": 30, "price_max": 150}
+{"product_class": "Kids Desks", "price_min": 100, "price_max": 400}
+{"product_class": "Dining Bowls", "price_min": 8, "price_max": 40}
+{"product_class": "Outdoor Wall Decor", "price_min": 20, "price_max": 120}
+{"product_class": "Picture Frames", "price_min": 10, "price_max": 80}
+{"product_class": "Bike Racks", "price_min": 40, "price_max": 200}
+{"product_class": "Dining Linens", "price_min": 15, "price_max": 80}
+{"product_class": "Outdoor Fireplaces", "price_min": 300, "price_max": 1200}
+{"product_class": "Planter Accessories", "price_min": 5, "price_max": 30}
+{"product_class": "Armoires", "price_min": 400, "price_max": 1500}
+{"product_class": "Patio Tables", "price_min": 150, "price_max": 600}
+{"product_class": "Salad Spinners", "price_min": 15, "price_max": 60}
+{"product_class": "Flatware", "price_min": 20, "price_max": 120}
+{"product_class": "Patio Umbrella Stands", "price_min": 40, "price_max": 150}
+{"product_class": "Patio Bar Stools", "price_min": 100, "price_max": 350}
+{"product_class": "Safes", "price_min": 100, "price_max": 500}
+{"product_class": "Ornaments", "price_min": 5, "price_max": 40}
+{"product_class": "Office Sets", "price_min": 400, "price_max": 1500}
+{"product_class": "Closet Organization", "price_min": 50, "price_max": 300}
+{"product_class": "Door Levers", "price_min": 20, "price_max": 100}
+{"product_class": "Adjustable Beds", "price_min": 800, "price_max": 3000}
+{"product_class": "Barn Door Hardware", "price_min": 80, "price_max": 300}
+{"product_class": "Mugs", "price_min": 8, "price_max": 30}
+{"product_class": "Christmas Trees", "price_min": 50, "price_max": 400}
+{"product_class": "Signs", "price_min": 15, "price_max": 80}
+{"product_class": "Pantry Cabinets", "price_min": 300, "price_max": 1200}
+{"product_class": "Shower Accessories", "price_min": 15, "price_max": 80}
+{"product_class": "Futons", "price_min": 200, "price_max": 800}
+{"product_class": "Pergolas", "price_min": 500, "price_max": 2000}
+{"product_class": "Reception Sofas", "price_min": 600, "price_max": 2000}
+{"product_class": "Whirlpools", "price_min": 2000, "price_max": 8000}
+{"product_class": "Weather Instruments", "price_min": 20, "price_max": 100}
+{"product_class": "Bathroom Sinks", "price_min": 100, "price_max": 500}
+{"product_class": "Refrigerators", "price_min": 800, "price_max": 3000}
+{"product_class": "Massage Chairs", "price_min": 1000, "price_max": 5000}
+{"product_class": "Pet Gates", "price_min": 40, "price_max": 200}
+{"product_class": "Makeup Vanities", "price_min": 200, "price_max": 800}
+{"product_class": "Mailboxes", "price_min": 30, "price_max": 150}
+{"product_class": "Outdoor Lanterns", "price_min": 40, "price_max": 200}
+{"product_class": "Wall Paneling", "price_min": 3, "price_max": 20}
+{"product_class": "Fencing", "price_min": 5, "price_max": 30}
+{"product_class": "Wall Stickers", "price_min": 8, "price_max": 40}
+{"product_class": "Cooking Utensils", "price_min": 5, "price_max": 40}
+{"product_class": "Jewelry Boxes", "price_min": 20, "price_max": 150}
+{"product_class": "Pillows", "price_min": 15, "price_max": 80}
+{"product_class": "Specialty Serving", "price_min": 15, "price_max": 80}
+{"product_class": "Awnings", "price_min": 200, "price_max": 800}
+{"product_class": "Log Storage", "price_min": 80, "price_max": 300}
+{"product_class": "Memo Boards", "price_min": 15, "price_max": 80}
+{"product_class": "Decorative Trays", "price_min": 15, "price_max": 80}
+{"product_class": "Wine Racks", "price_min": 40, "price_max": 300}
+{"product_class": "Interior Doors", "price_min": 150, "price_max": 600}
+{"product_class": "Covers", "price_min": 20, "price_max": 100}
+{"product_class": "Desktop Organizers", "price_min": 15, "price_max": 80}
+{"product_class": "Bed Accessories", "price_min": 20, "price_max": 100}
+{"product_class": "Poker Tables", "price_min": 300, "price_max": 1200}
+{"product_class": "Saunas", "price_min": 2000, "price_max": 8000}
+{"product_class": "Computer Mounts", "price_min": 40, "price_max": 200}
+{"product_class": "Jewelry Armoires", "price_min": 150, "price_max": 600}
+{"product_class": "Towel Bars", "price_min": 15, "price_max": 80}
+{"product_class": "Bird Cages", "price_min": 40, "price_max": 200}
+{"product_class": "Kids Dressers", "price_min": 150, "price_max": 500}
+{"product_class": "Rocking Chairs", "price_min": 150, "price_max": 600}
+{"product_class": "Lighting Accessories", "price_min": 10, "price_max": 60}
+{"product_class": "Office Stools", "price_min": 80, "price_max": 300}
+{"product_class": "Hybrid Mattresses", "price_min": 300, "price_max": 2000}
+{"product_class": "Washer and Dryer Sets", "price_min": 800, "price_max": 2500}
+{"product_class": "Storage Drawers", "price_min": 30, "price_max": 150}
+{"product_class": "Vases", "price_min": 15, "price_max": 120}
+{"product_class": "Flags", "price_min": 15, "price_max": 80}
+{"product_class": "Holiday Lighting", "price_min": 20, "price_max": 150}
+{"product_class": "Valances", "price_min": 20, "price_max": 100}
+{"product_class": "Lawn Games", "price_min": 30, "price_max": 200}
+{"product_class": "Dog Bowls", "price_min": 10, "price_max": 60}
+{"product_class": "Accent Stools", "price_min": 80, "price_max": 300}
+{"product_class": "Pendant Lights", "price_min": 60, "price_max": 300}
+{"product_class": "Glassware", "price_min": 8, "price_max": 40}
+{"product_class": "Closet Organizer Accessories", "price_min": 10, "price_max": 60}
+{"product_class": "Reception Seating Chairs", "price_min": 150, "price_max": 600}
+{"product_class": "Mattress Protectors", "price_min": 20, "price_max": 80}
+{"product_class": "Blankets", "price_min": 25, "price_max": 120}
+{"product_class": "Dryers", "price_min": 400, "price_max": 1200}
+{"product_class": "Stackable Chairs", "price_min": 60, "price_max": 200}
+{"product_class": "Waiting Room Chairs", "price_min": 100, "price_max": 400}
+{"product_class": "Canopies", "price_min": 80, "price_max": 300}
+{"product_class": "Bulletin Boards", "price_min": 30, "price_max": 150}
+{"product_class": "Garage Storage Cabinets", "price_min": 150, "price_max": 600}
+{"product_class": "Beauty Organizers", "price_min": 15, "price_max": 80}
+{"product_class": "Wreaths", "price_min": 20, "price_max": 100}
+{"product_class": "Kids Headboards", "price_min": 80, "price_max": 300}
+{"product_class": "Game Chairs", "price_min": 150, "price_max": 600}
+{"product_class": "Cabinet Organization", "price_min": 20, "price_max": 100}
+{"product_class": "Bedding Accessories", "price_min": 15, "price_max": 80}
+{"product_class": "Door Knobs", "price_min": 8, "price_max": 40}
+{"product_class": "Switches", "price_min": 5, "price_max": 25}
+{"product_class": "Picnic Baskets", "price_min": 20, "price_max": 100}
+{"product_class": "Floor Lamps", "price_min": 60, "price_max": 300}
+{"product_class": "Water Coolers", "price_min": 150, "price_max": 600}
+{"product_class": "Mantel Clocks", "price_min": 40, "price_max": 200}
+{"product_class": "Dinnerware", "price_min": 15, "price_max": 80}
+{"product_class": "Backsplash Tiles", "price_min": 3, "price_max": 15}
+{"product_class": "Washing Machines", "price_min": 400, "price_max": 1200}
+{"product_class": "Night Lights", "price_min": 10, "price_max": 50}
+{"product_class": "Potholders", "price_min": 5, "price_max": 25}
+{"product_class": "Chair Accessories", "price_min": 10, "price_max": 60}
+{"product_class": "Pasta Makers", "price_min": 30, "price_max": 150}
+{"product_class": "Door Hardware", "price_min": 15, "price_max": 80}
+{"product_class": "Towel Rings", "price_min": 10, "price_max": 50}
+{"product_class": "Kitchen Towels", "price_min": 8, "price_max": 30}
+{"product_class": "Tub Faucets", "price_min": 80, "price_max": 400}
+{"product_class": "Physical Education", "price_min": 50, "price_max": 300}
+{"product_class": "Coasters", "price_min": 5, "price_max": 25}
+{"product_class": "Accent Tiles", "price_min": 2, "price_max": 12}
+{"product_class": "Playhouses", "price_min": 200, "price_max": 800}
+{"product_class": "Wall Organizers", "price_min": 15, "price_max": 80}
+{"product_class": "Fabric", "price_min": 8, "price_max": 40}
+{"product_class": "Decorative Plates", "price_min": 10, "price_max": 60}
+{"product_class": "Slipcovers", "price_min": 40, "price_max": 200}
+{"product_class": "Smoke Detectors", "price_min": 20, "price_max": 80}
+{"product_class": "Serving Bowls", "price_min": 10, "price_max": 60}
+{"product_class": "Food Service", "price_min": 20, "price_max": 120}
+{"product_class": "Vanity Tops", "price_min": 100, "price_max": 500}
+{"product_class": "Climbing Toys", "price_min": 100, "price_max": 500}
+{"product_class": "Ride-On Toys", "price_min": 80, "price_max": 300}
+{"product_class": "Bean Bags", "price_min": 50, "price_max": 200}
+{"product_class": "Wallpaper", "price_min": 2, "price_max": 15}
+{"product_class": "Scents", "price_min": 10, "price_max": 60}
+{"product_class": "China Cabinets", "price_min": 400, "price_max": 1500}
+{"product_class": "Rackmounts", "price_min": 50, "price_max": 300}
+{"product_class": "Comforters", "price_min": 40, "price_max": 200}
+{"product_class": "Laundry Accessories", "price_min": 10, "price_max": 60}
+{"product_class": "Trunks", "price_min": 100, "price_max": 500}
+{"product_class": "Live Plants", "price_min": 15, "price_max": 80}
+{"product_class": "Baking Dishes", "price_min": 15, "price_max": 80}
+{"product_class": "Gliders", "price_min": 200, "price_max": 800}
+{"product_class": "Greenhouse Accessories", "price_min": 15, "price_max": 80}
+{"product_class": "Cutting Boards", "price_min": 15, "price_max": 80}
+{"product_class": "Swing Set Accessories", "price_min": 20, "price_max": 100}
+{"product_class": "Saucepans", "price_min": 20, "price_max": 100}
+{"product_class": "Bathroom Hardware", "price_min": 15, "price_max": 80}
+{"product_class": "Commercial Desks", "price_min": 300, "price_max": 1200}
+{"product_class": "Protection Plans", "price_min": 50, "price_max": 300}
+{"product_class": "Ottomans", "price_min": 80, "price_max": 400}
+{"product_class": "Bath Towels", "price_min": 8, "price_max": 40}
+{"product_class": "Bar Carts", "price_min": 100, "price_max": 400}
+{"product_class": "TV Trays", "price_min": 30, "price_max": 120}
+{"product_class": "Patio Bar Sets", "price_min": 300, "price_max": 1200}
+{"product_class": "Clips", "price_min": 3, "price_max": 15}
+{"product_class": "Reception Benches", "price_min": 200, "price_max": 800}
+{"product_class": "Salt and Pepper", "price_min": 8, "price_max": 40}
+{"product_class": "Beverage Refrigerators", "price_min": 300, "price_max": 1200}
+{"product_class": "Skillets", "price_min": 20, "price_max": 100}
+{"product_class": "Hangers", "price_min": 3, "price_max": 15}
+{"product_class": "Valves", "price_min": 15, "price_max": 80}
+{"product_class": "Ceiling Fan Parts", "price_min": 10, "price_max": 60}
+{"product_class": "Napkin Holders", "price_min": 8, "price_max": 30}
+{"product_class": "Bird Play Stand", "price_min": 50, "price_max": 200}
+{"product_class": "Bed Skirts", "price_min": 20, "price_max": 80}
+{"product_class": "Dollies", "price_min": 15, "price_max": 60}
+{"product_class": "Placemats", "price_min": 8, "price_max": 40}
+{"product_class": "Candles", "price_min": 5, "price_max": 50}
+{"product_class": "Beverage Servers", "price_min": 20, "price_max": 120}
+{"product_class": "Furniture Parts", "price_min": 5, "price_max": 50}
+{"product_class": "Patio Dining Chairs", "price_min": 80, "price_max": 300}
+{"product_class": "Bar & Wine Tools", "price_min": 10, "price_max": 80}
+{"product_class": "Buffet Accessories", "price_min": 15, "price_max": 80}
+{"product_class": "Large Appliance Accessories", "price_min": 20, "price_max": 150}
+{"product_class": "Cabinetry", "price_min": 200, "price_max": 2000}
+{"product_class": "Kids Bookcases", "price_min": 80, "price_max": 300}
+{"product_class": "Shelving Accessories", "price_min": 10, "price_max": 60}
+{"product_class": "Adirondack Chairs", "price_min": 100, "price_max": 400}
+{"product_class": "Arbors", "price_min": 150, "price_max": 600}
+{"product_class": "Bakeware", "price_min": 15, "price_max": 80}
+{"product_class": "Life Size Cutouts", "price_min": 30, "price_max": 150}
+{"product_class": "Dog Beds", "price_min": 25, "price_max": 120}
+{"product_class": "Coolers", "price_min": 30, "price_max": 200}
+{"product_class": "Classroom Chairs", "price_min": 60, "price_max": 200}
+{"product_class": "Outdoor Hanging Lights", "price_min": 40, "price_max": 200}
+{"product_class": "Coffee Makers", "price_min": 30, "price_max": 300}
+{"product_class": "Vinyl Flooring", "price_min": 2, "price_max": 8}
+{"product_class": "Hot Tub Accessories", "price_min": 20, "price_max": 150}
+{"product_class": "Gas Grills", "price_min": 200, "price_max": 2000}
+{"product_class": "Kitchen Sink Accessories", "price_min": 15, "price_max": 80}
+{"product_class": "String Lights", "price_min": 10, "price_max": 60}
+{"product_class": "Filing Cabinets", "price_min": 80, "price_max": 400}
+{"product_class": "Commercial Ceiling Lighting", "price_min": 100, "price_max": 500}
+{"product_class": "Beekeeping Supplies", "price_min": 50, "price_max": 300}
+{"product_class": "Kitchen Sink Storage", "price_min": 20, "price_max": 100}
+{"product_class": "Patio Benches", "price_min": 80, "price_max": 300}
+{"product_class": "Utensil Crocks", "price_min": 15, "price_max": 60}
+{"product_class": "Game Table Accessories", "price_min": 20, "price_max": 100}
+{"product_class": "Bookends", "price_min": 10, "price_max": 60}
+{"product_class": "Commercial Office Chairs", "price_min": 150, "price_max": 600}
+{"product_class": "Lecterns", "price_min": 200, "price_max": 800}
+{"product_class": "Tapestries", "price_min": 30, "price_max": 200}
+{"product_class": "Security Lighting", "price_min": 40, "price_max": 200}
+{"product_class": "Kids Tables", "price_min": 60, "price_max": 250}
+{"product_class": "Bird Feeders", "price_min": 15, "price_max": 80}
+{"product_class": "Grill Parts", "price_min": 10, "price_max": 80}
+{"product_class": "Bird Baths", "price_min": 30, "price_max": 200}
+{"product_class": "Outdoor Flush Mounts", "price_min": 40, "price_max": 200}
+{"product_class": "Commercial Outdoor Lighting", "price_min": 80, "price_max": 400}
+{"product_class": "Kitchen Aprons", "price_min": 10, "price_max": 40}
+{"product_class": "Room Dividers", "price_min": 100, "price_max": 500}
+{"product_class": "Stock Pots", "price_min": 25, "price_max": 150}
+{"product_class": "Water Bottles", "price_min": 10, "price_max": 50}
+{"product_class": "Classroom Decorations", "price_min": 15, "price_max": 80}
+{"product_class": "Fountain Accessories", "price_min": 10, "price_max": 60}
+{"product_class": "Vanity Lighting", "price_min": 60, "price_max": 300}
+{"product_class": "Cooktops", "price_min": 300, "price_max": 1500}
+{"product_class": "Rocking Horses", "price_min": 80, "price_max": 300}
+{"product_class": "Entry Sets", "price_min": 100, "price_max": 500}
+{"product_class": "Shower Curtain Rods", "price_min": 15, "price_max": 60}
+{"product_class": "Camping Tents", "price_min": 50, "price_max": 400}
+{"product_class": "Ergonomic Accessories", "price_min": 20, "price_max": 120}
+{"product_class": "Door Stops", "price_min": 5, "price_max": 25}
+{"product_class": "Garlands", "price_min": 10, "price_max": 60}
+{"product_class": "Hardwood Flooring", "price_min": 3, "price_max": 15}
+{"product_class": "TV Mounts", "price_min": 30, "price_max": 200}
+{"product_class": "Espresso Machines", "price_min": 100, "price_max": 2000}
+{"product_class": "Teen Desks", "price_min": 120, "price_max": 500}
+{"product_class": "Slatwall & Pegboard Accessories", "price_min": 10, "price_max": 60}
+{"product_class": "Disposable Party Supplies", "price_min": 5, "price_max": 30}
+{"product_class": "Hostess Stands", "price_min": 100, "price_max": 400}
+{"product_class": "Novelty Lighting", "price_min": 20, "price_max": 120}
+{"product_class": "Toy Boxes", "price_min": 60, "price_max": 250}
+{"product_class": "Shade Accessories", "price_min": 10, "price_max": 60}
+{"product_class": "Outdoor Deck Tiles", "price_min": 3, "price_max": 15}
+{"product_class": "Sauna Accessories", "price_min": 20, "price_max": 120}
+{"product_class": "Open Stock Knives", "price_min": 15, "price_max": 100}
+{"product_class": "Restaurant Tables", "price_min": 200, "price_max": 800}
+{"product_class": "Stained Glass Panels", "price_min": 50, "price_max": 300}
+{"product_class": "Institutional Furniture Parts", "price_min": 10, "price_max": 80}
+{"product_class": "Bath Exhaust Fans", "price_min": 40, "price_max": 200}
+{"product_class": "Napkin Rings", "price_min": 8, "price_max": 40}
+{"product_class": "Soft Seating", "price_min": 200, "price_max": 1000}
+{"product_class": "Hall Trees", "price_min": 100, "price_max": 400}
+{"product_class": "Decorative Boxes", "price_min": 15, "price_max": 80}
+{"product_class": "Post Lanterns", "price_min": 60, "price_max": 300}
+{"product_class": "Porch Swings", "price_min": 200, "price_max": 800}
+{"product_class": "Tile Trims", "price_min": 2, "price_max": 12}
+{"product_class": "Birdhouses", "price_min": 20, "price_max": 100}
+{"product_class": "Patio Ottomans", "price_min": 60, "price_max": 250}
+{"product_class": "Water Filtration", "price_min": 30, "price_max": 200}
+{"product_class": "Picture & Memory Albums", "price_min": 10, "price_max": 60}
+{"product_class": "Beer Pong", "price_min": 20, "price_max": 100}
+{"product_class": "Desk Parts", "price_min": 10, "price_max": 80}
+{"product_class": "Cabinet and Drawer Accessories", "price_min": 8, "price_max": 50}
+{"product_class": "Wedding", "price_min": 20, "price_max": 200}
+{"product_class": "Therapeutic Cushions", "price_min": 30, "price_max": 150}
+{"product_class": "Grilling & Heating Fuels", "price_min": 10, "price_max": 50}
+{"product_class": "Ceiling Tiles", "price_min": 2, "price_max": 15}
+{"product_class": "Cookware", "price_min": 20, "price_max": 200}
+{"product_class": "Slicers", "price_min": 30, "price_max": 150}
+{"product_class": "Knife Sets", "price_min": 50, "price_max": 300}
+{"product_class": "Cable Management", "price_min": 10, "price_max": 60}
+{"product_class": "Hammocks", "price_min": 40, "price_max": 200}
+{"product_class": "Swing Sets", "price_min": 200, "price_max": 1000}
+{"product_class": "Mobiles", "price_min": 20, "price_max": 100}
+{"product_class": "Futon Frames", "price_min": 100, "price_max": 400}
+{"product_class": "Baby Blankets", "price_min": 15, "price_max": 60}
+{"product_class": "Saute Pans", "price_min": 25, "price_max": 120}
+{"product_class": "Dartboards", "price_min": 30, "price_max": 150}
+{"product_class": "Cake Pans", "price_min": 10, "price_max": 50}
+{"product_class": "Home Theater", "price_min": 200, "price_max": 2000}
+{"product_class": "Teapots", "price_min": 15, "price_max": 80}
+{"product_class": "Multimedia Storage", "price_min": 40, "price_max": 200}
+{"product_class": "Projectors", "price_min": 100, "price_max": 1000}
+{"product_class": "Measuring Cups", "price_min": 8, "price_max": 30}
+{"product_class": "Electric & Alternative Fuel Fireplaces", "price_min": 200, "price_max": 1500}
+{"product_class": "Rug Pads", "price_min": 15, "price_max": 80}
+{"product_class": "Carpet Tile", "price_min": 2, "price_max": 8}
+{"product_class": "Baking Sheets", "price_min": 10, "price_max": 40}
+{"product_class": "Multi Game Tables", "price_min": 300, "price_max": 1500}
+{"product_class": "Workbenches", "price_min": 150, "price_max": 600}
+{"product_class": "Commercial Playground Equipment", "price_min": 500, "price_max": 5000}
+{"product_class": "Pastry Decoration", "price_min": 5, "price_max": 30}
+{"product_class": "Mattress Foundations", "price_min": 80, "price_max": 400}
+{"product_class": "Grill Pans", "price_min": 20, "price_max": 80}
+{"product_class": "Lawn and Beach Chairs", "price_min": 25, "price_max": 120}
+{"product_class": "Outdoor Decorations", "price_min": 15, "price_max": 100}
+{"product_class": "Landscaping Screens", "price_min": 30, "price_max": 150}
+{"product_class": "Trellises", "price_min": 40, "price_max": 200}
+{"product_class": "Spice Jars", "price_min": 8, "price_max": 30}
+{"product_class": "Teen Lounge Furniture", "price_min": 150, "price_max": 600}
+{"product_class": "Reception Desks", "price_min": 300, "price_max": 1200}
+{"product_class": "Classroom Desks", "price_min": 80, "price_max": 300}
+{"product_class": "Conference Tables", "price_min": 400, "price_max": 2000}
+{"product_class": "Chess", "price_min": 15, "price_max": 100}
+{"product_class": "Toddler Bedding", "price_min": 25, "price_max": 100}
+{"product_class": "Burners", "price_min": 40, "price_max": 200}
+{"product_class": "Turf Flooring", "price_min": 3, "price_max": 12}
+{"product_class": "Stair Treads", "price_min": 10, "price_max": 40}
+{"product_class": "Futon Mattresses", "price_min": 100, "price_max": 400}
+{"product_class": "Coffee & Espresso Accessories", "price_min": 10, "price_max": 60}
+{"product_class": "Science Tables", "price_min": 200, "price_max": 800}
+{"product_class": "Wine and Champagne Glasses", "price_min": 8, "price_max": 40}
+{"product_class": "Mantels", "price_min": 150, "price_max": 800}
+{"product_class": "Creamers", "price_min": 8, "price_max": 30}
+{"product_class": "Chicken Coop Accessories", "price_min": 15, "price_max": 80}
+{"product_class": "Kids Armoires", "price_min": 200, "price_max": 600}
+{"product_class": "Safety Gates", "price_min": 40, "price_max": 150}
+{"product_class": "Shower Panels", "price_min": 100, "price_max": 400}
+{"product_class": "Table Top Games", "price_min": 20, "price_max": 120}
+{"product_class": "Lighting Replacement Glass", "price_min": 10, "price_max": 60}
+{"product_class": "Ice Buckets", "price_min": 15, "price_max": 80}
+{"product_class": "Outdoor Sinks", "price_min": 200, "price_max": 800}
+{"product_class": "Crib Conversion Rails", "price_min": 50, "price_max": 200}
+{"product_class": "Coffee Pods", "price_min": 8, "price_max": 30}
+{"product_class": "Blinds", "price_min": 25, "price_max": 150}
+{"product_class": "Basketball Games", "price_min": 100, "price_max": 500}
+{"product_class": "Toilet Brushes", "price_min": 8, "price_max": 30}
+{"product_class": "Patio Umbrella Accessories", "price_min": 15, "price_max": 80}
+{"product_class": "Stage Accessories", "price_min": 50, "price_max": 300}
+{"product_class": "Medicine Cabinets", "price_min": 80, "price_max": 300}
+{"product_class": "Dog Blankets", "price_min": 15, "price_max": 60}
+{"product_class": "Nursery Furniture Sets", "price_min": 500, "price_max": 2000}
+{"product_class": "Air Mattresses", "price_min": 30, "price_max": 150}
+{"product_class": "Door Bells", "price_min": 25, "price_max": 120}
+{"product_class": "Crib Sheets", "price_min": 15, "price_max": 60}
+{"product_class": "Ramps", "price_min": 50, "price_max": 300}
+{"product_class": "Teen Bookcases", "price_min": 100, "price_max": 400}
+{"product_class": "Muffin & Cupcake Pans", "price_min": 8, "price_max": 30}
+{"product_class": "Wine Refrigerators", "price_min": 300, "price_max": 1500}
+{"product_class": "Ranges", "price_min": 400, "price_max": 2000}
+{"product_class": "Mixers", "price_min": 50, "price_max": 400}
+{"product_class": "Tool Holders", "price_min": 15, "price_max": 80}
+{"product_class": "Deadbolts", "price_min": 30, "price_max": 150}
+{"product_class": "Drawer Organizers", "price_min": 10, "price_max": 60}
+{"product_class": "Reception Sets", "price_min": 800, "price_max": 3000}
+{"product_class": "Breakroom Tables", "price_min": 200, "price_max": 600}
+{"product_class": "Portable Electronic Mounts", "price_min": 20, "price_max": 100}
+{"product_class": "Indoor Gardening", "price_min": 15, "price_max": 120}
+{"product_class": "Teacher Resources", "price_min": 10, "price_max": 80}
+{"product_class": "Patio Umbrellas", "price_min": 50, "price_max": 300}
+{"product_class": "Sandboxes", "price_min": 80, "price_max": 300}
+{"product_class": "Holiday Decor Storage", "price_min": 20, "price_max": 100}
+{"product_class": "Restaurant Table Tops", "price_min": 100, "price_max": 400}
+{"product_class": "Hammock Stands", "price_min": 80, "price_max": 300}
+{"product_class": "Computer & Training Tables", "price_min": 200, "price_max": 800}
+{"product_class": "Decorative Torches", "price_min": 30, "price_max": 150}
+{"product_class": "Vacuums", "price_min": 100, "price_max": 600}
+{"product_class": "Slatwalls", "price_min": 50, "price_max": 200}
+{"product_class": "Crates", "price_min": 15, "price_max": 80}
+{"product_class": "Commercial Plumbing Parts", "price_min": 20, "price_max": 150}
+{"product_class": "Crib Mattresses", "price_min": 80, "price_max": 300}
+{"product_class": "Audio Towers", "price_min": 100, "price_max": 500}
+{"product_class": "Partition & Panel Hardware", "price_min": 15, "price_max": 80}
+{"product_class": "Teen Desk Chairs", "price_min": 80, "price_max": 300}
+{"product_class": "Mailroom Tables", "price_min": 200, "price_max": 600}
+{"product_class": "Closet Storage & Organization", "price_min": 30, "price_max": 200}
+{"product_class": "Air Fryers", "price_min": 50, "price_max": 300}
+{"product_class": "Restaurant Table Bases", "price_min": 80, "price_max": 300}
+{"product_class": "Shower and Bathtub Enclosures", "price_min": 300, "price_max": 1500}
+{"product_class": "Dollhouses", "price_min": 50, "price_max": 300}
+{"product_class": "Aquariums", "price_min": 50, "price_max": 500}
+{"product_class": "Specialty Filing", "price_min": 100, "price_max": 400}
+{"product_class": "Dutch Ovens", "price_min": 40, "price_max": 200}
+{"product_class": "Play Kitchen Sets", "price_min": 80, "price_max": 400}
+{"product_class": "Cupolas", "price_min": 200, "price_max": 800}
+{"product_class": "Coffee Grinders", "price_min": 30, "price_max": 200}
+{"product_class": "Fitness & Recreational Flooring", "price_min": 3, "price_max": 15}
+{"product_class": "Grab Bars", "price_min": 25, "price_max": 100}
+{"product_class": "Key Organizers", "price_min": 10, "price_max": 50}
+{"product_class": "Table Tennis Tables", "price_min": 200, "price_max": 1000}
+{"product_class": "Fireplace Screens", "price_min": 80, "price_max": 300}
+{"product_class": "Bassinets", "price_min": 100, "price_max": 400}
+{"product_class": "Crib Bedding Accessories", "price_min": 15, "price_max": 60}
+{"product_class": "Serving Dishes", "price_min": 15, "price_max": 80}
+{"product_class": "Compact & Mini Fridges", "price_min": 150, "price_max": 600}
+{"product_class": "Bidet Faucets", "price_min": 100, "price_max": 400}
+{"product_class": "Electric Grills", "price_min": 80, "price_max": 400}
+{"product_class": "Tailgating Wagons", "price_min": 100, "price_max": 400}
+{"product_class": "Folding Chairs", "price_min": 25, "price_max": 120}
+{"product_class": "Space Heaters", "price_min": 40, "price_max": 200}
+{"product_class": "Pavers", "price_min": 2, "price_max": 8}
+{"product_class": "Steam", "price_min": 200, "price_max": 1000}
+{"product_class": "TV Stand Accessories", "price_min": 15, "price_max": 80}
+{"product_class": "Gas Fireplaces", "price_min": 500, "price_max": 3000}
+{"product_class": "Portable Fans", "price_min": 25, "price_max": 150}
+{"product_class": "Recessed Lighting Kits", "price_min": 30, "price_max": 120}
+{"product_class": "Microfridge Combo Units", "price_min": 300, "price_max": 800}
+{"product_class": "Commercial Floor Care", "price_min": 200, "price_max": 1000}
+{"product_class": "Pet Grooming Furniture", "price_min": 150, "price_max": 600}
+{"product_class": "Cash Handling", "price_min": 100, "price_max": 500}
+{"product_class": "Hooks", "price_min": 3, "price_max": 20}
+{"product_class": "Rice Cookers", "price_min": 30, "price_max": 200}
+{"product_class": "Stationery & Coffee Table Books", "price_min": 10, "price_max": 80}
+{"product_class": "Teen Beds", "price_min": 200, "price_max": 800}
+{"product_class": "Track Lighting", "price_min": 60, "price_max": 300}
+{"product_class": "Bidets", "price_min": 200, "price_max": 1000}
+{"product_class": "Massage Therapy Products", "price_min": 50, "price_max": 300}
+{"product_class": "Globes", "price_min": 30, "price_max": 150}
+{"product_class": "Water Filter Pitchers", "price_min": 20, "price_max": 80}
+{"product_class": "Pub/Bar Tables", "price_min": 150, "price_max": 500}
+{"product_class": "Potting Benches", "price_min": 100, "price_max": 400}
+{"product_class": "Cat Cages", "price_min": 50, "price_max": 250}
+{"product_class": "Home Theater Seating", "price_min": 400, "price_max": 2000}
+{"product_class": "Bar Equipment", "price_min": 50, "price_max": 300}
+{"product_class": "Drying Racks", "price_min": 25, "price_max": 120}
+{"product_class": "Cabinet and Drawer Backplates", "price_min": 5, "price_max": 25}
+{"product_class": "Cart Accessories", "price_min": 15, "price_max": 80}
+{"product_class": "Commercial Work Tables", "price_min": 300, "price_max": 1200}
+{"product_class": "Door Hinges", "price_min": 10, "price_max": 50}
+{"product_class": "Rain Barrels", "price_min": 80, "price_max": 300}
+{"product_class": "Stovetop & Electric Tea Kettles", "price_min": 20, "price_max": 100}
+{"product_class": "Hot / Cold Tea Accessories", "price_min": 10, "price_max": 60}
+{"product_class": "Eye Wash Stations", "price_min": 200, "price_max": 800}
+{"product_class": "Nap Mats", "price_min": 20, "price_max": 80}
+{"product_class": "Standard Bed Pillows", "price_min": 15, "price_max": 60}
+{"product_class": "Office Partitions", "price_min": 200, "price_max": 800}
+{"product_class": "Wine Bottle Carriers", "price_min": 15, "price_max": 80}
+{"product_class": "Air Conditioners", "price_min": 200, "price_max": 1000}
+{"product_class": "Slides", "price_min": 150, "price_max": 800}
+{"product_class": "Table Accessories", "price_min": 10, "price_max": 60}
+{"product_class": "Watering Cans", "price_min": 15, "price_max": 60}
+{"product_class": "Address Plaques", "price_min": 20, "price_max": 80}
+{"product_class": "Shower Benches", "price_min": 50, "price_max": 200}
+{"product_class": "Display Cases", "price_min": 100, "price_max": 600}
+{"product_class": "Flush Mount Lighting", "price_min": 40, "price_max": 200}
+{"product_class": "Screen Accessories", "price_min": 15, "price_max": 80}
+{"product_class": "Cat Condos", "price_min": 80, "price_max": 400}
+{"product_class": "Mixing Bowls", "price_min": 10, "price_max": 50}
+{"product_class": "Classroom Storage", "price_min": 80, "price_max": 400}
+{"product_class": "Milk Frothers", "price_min": 15, "price_max": 80}
+{"product_class": "Air Treatment Accessories", "price_min": 20, "price_max": 100}
+{"product_class": "Kitchen Gadgets", "price_min": 8, "price_max": 60}
+{"product_class": "Art Room Supplies", "price_min": 10, "price_max": 80}
+{"product_class": "Stanchions", "price_min": 80, "price_max": 300}
+{"product_class": "Lids", "price_min": 5, "price_max": 25}
+{"product_class": "Hot Tubs", "price_min": 3000, "price_max": 15000}
+{"product_class": "Toilet Seat Decals", "price_min": 5, "price_max": 20}
+{"product_class": "Foosball Tables", "price_min": 200, "price_max": 1000}
+{"product_class": "Pizza Stones", "price_min": 15, "price_max": 60}
+{"product_class": "Woks", "price_min": 25, "price_max": 120}
+{"product_class": "Roasting Pans", "price_min": 20, "price_max": 100}
+{"product_class": "Christmas Stockings", "price_min": 10, "price_max": 40}
+{"product_class": "Brooms", "price_min": 10, "price_max": 50}
+{"product_class": "Board Accessories", "price_min": 10, "price_max": 60}
+{"product_class": "Cribs", "price_min": 200, "price_max": 800}
+{"product_class": "TV Mount Accessories", "price_min": 15, "price_max": 80}
+{"product_class": "Ceiling Fan Light Kits", "price_min": 30, "price_max": 150}
+{"product_class": "Tool Cabinets", "price_min": 150, "price_max": 600}
+{"product_class": "Luggage Racks", "price_min": 50, "price_max": 200}
+{"product_class": "Floor Installation Accessories", "price_min": 10, "price_max": 80}
+{"product_class": "Craft & Sewing Tables", "price_min": 150, "price_max": 600}
+{"product_class": "Grilling Tools", "price_min": 15, "price_max": 80}
+{"product_class": "Av Component", "price_min": 50, "price_max": 300}
+{"product_class": "Kids Nightstands", "price_min": 60, "price_max": 250}
+{"product_class": "Drainsown", "price_min": 15, "price_max": 60}
+{"product_class": "Outdoor Kitchens", "price_min": 2000, "price_max": 10000}
+{"product_class": "Poultry & Meat Preparation Tools", "price_min": 10, "price_max": 80}
+{"product_class": "Cabinet and Drawer Knobs", "price_min": 3, "price_max": 20}
+{"product_class": "Pet Crate & Carrier Accessories", "price_min": 10, "price_max": 60}
+{"product_class": "Smart & Electronic Door Locks", "price_min": 100, "price_max": 400}
+{"product_class": "Le Creuset - Shop By Color", "price_min": 50, "price_max": 300}
+{"product_class": "Locker Accessories", "price_min": 10, "price_max": 50}
+{"product_class": "Changing Tables", "price_min": 100, "price_max": 400}
+{"product_class": "Changing Table Toppers", "price_min": 50, "price_max": 200}
+{"product_class": "Bounce Houses", "price_min": 300, "price_max": 1500}
+{"product_class": "Dehumidifiers", "price_min": 100, "price_max": 400}
+{"product_class": "Climbing Toys & Slides", "price_min": 200, "price_max": 1000}
+{"product_class": "Rolling Pins", "price_min": 10, "price_max": 40}
+{"product_class": "Cat Beds", "price_min": 15, "price_max": 80}
+{"product_class": "Christmas Tree Skirts", "price_min": 15, "price_max": 60}
+{"product_class": "Maps", "price_min": 10, "price_max": 60}
+{"product_class": "Lockers", "price_min": 200, "price_max": 800}
+{"product_class": "Activity Tables", "price_min": 80, "price_max": 300}
+{"product_class": "Daybeds & Guest Beds", "price_min": 300, "price_max": 1000}
+{"product_class": "Bedroom Sets", "price_min": 800, "price_max": 3000}
+{"product_class": "Pot Racks", "price_min": 40, "price_max": 200}
+{"product_class": "Ironing Boards", "price_min": 30, "price_max": 150}
+{"product_class": "Air Purifiers", "price_min": 80, "price_max": 400}
+{"product_class": "Towel Warmers", "price_min": 100, "price_max": 400}
+{"product_class": "Holiday Hats", "price_min": 10, "price_max": 40}
+{"product_class": "Standing Desk", "price_min": 300, "price_max": 1200}
+{"product_class": "Tea Pots", "price_min": 20, "price_max": 100}
+{"product_class": "Decorative Statues", "price_min": 30, "price_max": 200}
+{"product_class": "Decorative Bowls", "price_min": 15, "price_max": 80}
+{"product_class": "Themed Kids Beds", "price_min": 200, "price_max": 800}
+{"product_class": "Antiques", "price_min": 100, "price_max": 2000}
+{"product_class": "Artificial Ponds", "price_min": 200, "price_max": 1000}

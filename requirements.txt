@@ -1,0 +1,39 @@
+# Core ML and Data Science
+numpy==1.26.4
+pandas==2.3.0
+scikit-learn==1.7.0
+matplotlib
+torch==2.7.1
+transformers
+sentence-transformers
+
+# Google Cloud Services
+google-cloud-storage>=2.10.0
+google-cloud-aiplatform>=1.71.1
+google-cloud-discoveryengine>=0.13.11
+google-genai>=1.31.0
+google-generativeai>=0.8.5
+vertexai>=1.71.1
+
+# Azure Services
+azure-search-documents==11.5.3
+azure-core==1.35.0
+
+# Vector Database and Superlinked
+qdrant-client==1.15.1
+superlinked
+
+# API and Web Services
+openai==1.92.2
+redis==5.3.0
+
+# Data Processing and Utilities
+tqdm
+python-dotenv
+pydantic-settings
+gcsfs
+typing-extensions
+
+# Development Tools
+black
+isort
